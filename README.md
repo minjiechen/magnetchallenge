@@ -1,15 +1,12 @@
-[![Build](https://github.com/PrincetonUniversity/magnet/actions/workflows/main.yml/badge.svg)](https://github.com/PrincetonUniversity/magnet/actions/workflows/main.yml)
-
-<img src="img/mclogo.jpg" width="1500">
-
 ## IEEE International Challenge in Design Methods for Power Electronics
-2023 PELS-Google-Tesla-Princeton MagNet Challenge (MagNet 2023)
+### 2023 PELS-Google-Tesla-Princeton MagNet Challenge (MagNet 2023)
+<img src="img/mclogo.jpg" width="1500">
 
 ## Website
 
 Princeton MagNet is currently deployed at https://mag-net.princeton.edu/
 
-## MagNet Challenge
+## MagNet Handbook
 
 [Download the Latest Version of the MagNet Handbook (05-02-2023)](docs/handbook.pdf)
 
