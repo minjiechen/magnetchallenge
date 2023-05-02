@@ -4,8 +4,8 @@
 
 ## Website
 
-Princeton MagNet is currently deployed at https://mag-net.princeton.edu/
-MagNet Challenge is currently hosted at https://minjiechen.github.io/magnetchallenge/
+- Princeton MagNet is currently deployed at https://mag-net.princeton.edu/
+- MagNet Challenge is currently hosted at https://minjiechen.github.io/magnetchallenge/
 
 ## MagNet Handbook
 
@@ -17,19 +17,19 @@ Slides for [MagNet Webinar Series #1 (04-07-2023)](docs/webinar.pdf)
 
 ## Participating Teams
 
-- Aalborg University, Aalborg, :Denmark:
-- Arizona State University, Tempe AZ, :USA:
-- Federal University of Santa Catarina, Florianopolis, :Brazil:
-- Fuzhou University, Fuzhou, China
-- Hangzhou Dianzi University, Hangzhou, China
-- Indian Institute of Science, Bangalore, India
-- Jinan University, Guangzhou, China
-- KU Leuven, Leuven, Belgium
-- Mondragon University, Hernani, Spain
-- Nanjing University of Posts and Telecommunications, Nanjing, China
-- Nanyang Technological University, Singapore
-- Nation Taipei University of Technology, Taipei, Taiwan
-- Northeastern University, Boston MA, USA
+- Aalborg University, Aalborg, 🇩🇰
+- Arizona State University, Tempe AZ, 🇺🇸
+- Federal University of Santa Catarina, Florianopolis, 🇧🇷
+- Fuzhou University, Fuzhou, 🇨🇳
+- Hangzhou Dianzi University, Hangzhou, 🇨🇳
+- Indian Institute of Science, Bangalore, 🇮🇳
+- Jinan University, Guangzhou, 🇨🇳
+- KU Leuven, Leuven, 🇧🇪
+- Mondragon University, Hernani, 🇪🇸
+- Nanjing University of Posts and Telecommunications, Nanjing, 🇨🇳
+- Nanyang Technological University, 🇸🇬
+- Nation Taipei University of Technology, Taipei, 🇹🇼
+- Northeastern University, Boston MA, 🇺🇸
 - Paderborn University, Paderborn, Germany
 - Politecnico di Torino, Torino, Italy
 - Seoul National University, Seoul, South Korea
