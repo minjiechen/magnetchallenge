@@ -2,7 +2,8 @@
 
 <img src="img/mclogo.jpg" width="1500">
 
-Princeton MagNet is a large-scale dataset designed to enable researchers modeling magnetic core loss using machine learning to accelerate the design process of power electronics. The dataset contains a large amount of voltage and current data of different magnetic components with different shapes of waveforms and different properties measured in the real world. Researchers may use these data as pairs of excitations and responses to build up analytical magnetic models or calculate the core loss to derive static models.
+## IEEE International Challenge in Design Methods for Power Electronics
+## 2023 PELS-Google-Tesla-Princeton MagNet Challenge (MagNet 2023)
 
 ## Website
 
@@ -10,7 +11,7 @@ Princeton MagNet is currently deployed at https://mag-net.princeton.edu/
 
 ## MagNet Challenge
 
-[Download the Latest Version of the MagNet Handbook (03-25-2023)](magnetchallenge/handbook.pdf)
+[Download the Latest Version of the MagNet Handbook (05-02-2023)](docs/handbook.pdf)
 
 ## Documentation
 
