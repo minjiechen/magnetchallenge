@@ -17,9 +17,9 @@ Slides for [MagNet Webinar Series #1 (04-07-2023)](docs/webinar.pdf)
 
 ## Participating Teams
 
-- Aalborg University, Aalborg, Denmark
-- Arizona State University, Tempe AZ, USA
-- Federal University of Santa Catarina, Florianopolis, Brazil
+- Aalborg University, Aalborg, :Denmark:
+- Arizona State University, Tempe AZ, :USA:
+- Federal University of Santa Catarina, Florianopolis, :Brazil:
 - Fuzhou University, Fuzhou, China
 - Hangzhou Dianzi University, Hangzhou, China
 - Indian Institute of Science, Bangalore, India
