@@ -18,4 +18,4 @@ Finally, the modified hidden state vectors are processed by the decoder, where t
 
 The encoder and the decoder can be implemented in various ways, for instance, recurrent neural networks (RNN), attention-based networks (transformer), long-short-term-memory network (LSTM), or convolutional neural networks (CNN), all of which have been proved successful in processing sequential data with sophisticated temporal correlations, and impacted by many factors. Here we show the training and testing of a transformer-based model and an LSTM-based model as examples.
 
-![seq-to-seq](../app/img/seq-to-seq.jpg)
+![seq-to-seq](../img/seq-to-seq.jpg)
