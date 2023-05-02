@@ -1,5 +1,5 @@
 [![Build](https://github.com/PrincetonUniversity/magnet/actions/workflows/main.yml/badge.svg)](https://github.com/PrincetonUniversity/magnet/actions/workflows/main.yml)
-![MagNet Logo](img/mclogo.jpg =x800)
+![MagNet Logo](img/mclogo.jpg width="800")
 
 Princeton MagNet is a large-scale dataset designed to enable researchers modeling magnetic core loss using machine learning to accelerate the design process of power electronics. The dataset contains a large amount of voltage and current data of different magnetic components with different shapes of waveforms and different properties measured in the real world. Researchers may use these data as pairs of excitations and responses to build up analytical magnetic models or calculate the core loss to derive static models.
 
@@ -35,10 +35,10 @@ If you used MagNet, please cite us with the following.
 
 Princeton MagNet is currently maintained by the Power Electronics Research Lab as Princeton University. We also collaborate with Dartmouth College, and Plexim.
 
-![MagNet Team](img/magnetteam.jpg =x800)
+![MagNet Team](img/magnetteam.jpg width="800")
 
 ## Sponsors
 
 This work is sponsored by the ARPA-E DIFFERENTIATE Program, Princeton CSML DataX program, Princeton Andlinger Center for Energy and the Environment, and National Science Foundation under the NSF CAREER Award. 
 
-![MagNet Sponsor](img/sponsor.jpg =x800)
+![MagNet Sponsor](img/sponsor.jpg width="800")
