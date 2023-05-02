@@ -4,8 +4,8 @@
 
 ## Website
 
-- [Homepage of Princeton MagNet Initiative](https://mag-net.princeton.edu/)
-- [Homepage of 2023 MagNet Challenge](https://minjiechen.github.io/magnetchallenge/)
+- Homepage of Princeton [MagNet Initiative](https://mag-net.princeton.edu/)
+- Homepage of PELS [MagNet Challenge](https://minjiechen.github.io/magnetchallenge/)
 
 ## MagNet Documents
 
