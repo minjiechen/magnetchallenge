@@ -15,6 +15,13 @@
 - Download the [Registration Form (04-07-2023)](docs/registration.pdf)
 - Download Data for 10 Materials [Dropbox Folder (04-07-2023)](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
 
+## MagNet Webinars
+
+~~~ 
+{}{raw}
+<iframe width="800" height="600" src="https://www.youtube.com/embed/vXiF10Ycqi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~
+
 ## Participating Teams (05-02-2023)
 
 - Aalborg University, Aalborg, 🇩🇰
