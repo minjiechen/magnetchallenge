@@ -50,3 +50,10 @@
 - Xi'an Jiaotong University, Xi'an, 🇨🇳
 - Zhejiang University, Hangzhou, 🇨🇳
 - Zhejiang University-UIUC, Hangzhou, 🇨🇳
+
+## Organizers
+<img src="img/magnetteam.jpg" width="1500">
+
+## Sponsors
+<img src="img/sponaor.jpg" width="1500">
+
