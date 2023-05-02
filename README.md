@@ -30,23 +30,23 @@
 - Nanyang Technological University, 🇸🇬
 - Nation Taipei University of Technology, Taipei, 🇹🇼
 - Northeastern University, Boston MA, 🇺🇸
-- Paderborn University, Paderborn, :de:
-- Politecnico di Torino, Torino, :it:
-- Seoul National University, Seoul, :sk:
-- Silicon Austria Labs, Graz, :as:
+- Paderborn University, Paderborn, 🇩🇪
+- Politecnico di Torino, Torino, 🇮🇹
+- Seoul National University, Seoul, 🇰🇷
+- Silicon Austria Labs, Graz, 🇦🇹
 - Southeast University Team 1, Nanjing, 🇨🇳
 - Southeast University Team 2, Nanjing, 🇨🇳
-- Tribhuvan University, Latipur, Nepal
+- Tribhuvan University, Latipur, 🇳🇵
 - Tsinghua University, Beijing, 🇨🇳
-- University of Bristol, Bristol, :uk:
+- University of Bristol, Bristol, 🇬🇧
 - University of Colorado Boulder, Boulder CO, 🇺🇸
-- University of Kassel, Kassel, :de:
-- University of Manchester, Manchester, :uk:
-- University of Nottingham, Nottingham, :uk:
+- University of Kassel, Kassel, 🇩🇪
+- University of Manchester, Manchester, 🇬🇧
+- University of Nottingham, Nottingham, 🇬🇧
 - University of Tennessee, Knoxville, 🇺🇸
-- University of Twente Team 1, Enschede, Netherlands
-- University of Twente Team 2, Enschede, Netherlands
-- Universidad Politécnica de Madrid, Madrid, Spain
-- Xi'an Jiaotong University, Xi'an, :cn:
-- Zhejiang University, Hangzhou, :cn:
-- Zhejiang University-UIUC, Hangzhou, :cn:
+- University of Twente Team 1, Enschede, 🇳🇱
+- University of Twente Team 2, Enschede, 🇳🇱
+- Universidad Politécnica de Madrid, Madrid, 🇪🇸
+- Xi'an Jiaotong University, Xi'an, 🇨🇳
+- Zhejiang University, Hangzhou, 🇨🇳
+- Zhejiang University-UIUC, Hangzhou, 🇨🇳
