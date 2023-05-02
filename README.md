@@ -5,39 +5,48 @@
 ## Website
 
 Princeton MagNet is currently deployed at https://mag-net.princeton.edu/
+MagNet Challenge is currently hosted at https://minjiechen.github.io/magnetchallenge/
 
 ## MagNet Handbook
 
-[Download the Latest Version of the MagNet Handbook (05-02-2023)](docs/handbook.pdf)
+Download the Latest Version of the [MagNet Handbook (05-02-2023)](docs/handbook.pdf)
 
-## Documentation
+## MagNet Webinar
 
-The web application for Princeton MagNet uses the `magnet` package, a python package under development where most of
-the functionality is exposed. Before `magnet` is released on PyPI, it can be installed using
-`pip install git+https://github.com/PrincetonUniversity/magnet`.
+Slides for [MagNet Webinar Series #1 (04-07-2023)](docs/webinar.pdf)
 
-Please `pip install mag-net` and `pip install .` in the magnet folder before running streamlit.
+## Participating Teams
 
-## How to Cite
-
-If you used MagNet, please cite us with the following.
-
-- D. Serrano et al., "Neural Network as Datasheet: Modeling B-H Loops of Power Magnetics with Sequence-to-Sequence LSTM Encoder-Decoder Architecture," IEEE 23rd Workshop on Control and Modeling for Power Electronics (COMPEL), 2022.
-
-- H. Li, D. Serrano, T. Guillod, E. Dogariu, A. Nadler, S. Wang, M. Luo, V. Bansal, Y. Chen, C. R. Sullivan, and M. Chen, "MagNet: an Open-Source Database for Data-Driven Magnetic Core Loss Modeling," IEEE Applied Power Electronics Conference (APEC), Houston, 2022.
-
-- E. Dogariu, H. Li, D. Serrano, S. Wang, M. Luo and M. Chen, "Transfer Learning Methods for Magnetic Core Loss Modeling,” IEEE Workshop on Control and Modeling of Power Electronics (COMPEL), Cartagena de Indias, Colombia, 2021.
-
-- H. Li, S. R. Lee, M. Luo, C. R. Sullivan, Y. Chen and M. Chen, "MagNet: A Machine Learning Framework for Magnetic Core Loss Modeling,” IEEE Workshop on Control and Modeling of Power Electronics (COMPEL), Aalborg, Denmark, 2020.
-
-## Team Members
-
-Princeton MagNet is currently maintained by the Power Electronics Research Lab as Princeton University. We also collaborate with Dartmouth College, and Plexim.
-
-<img src="img/magnetteam.jpg" width="1500">
-
-## Sponsors
-
-This work is sponsored by the ARPA-E DIFFERENTIATE Program, Princeton CSML DataX program, Princeton Andlinger Center for Energy and the Environment, and National Science Foundation under the NSF CAREER Award. 
-
-<img src="img/sponsor.jpg" width="1500">
+- Aalborg University, Aalborg, Denmark
+- Arizona State University, Tempe AZ, USA
+- Federal University of Santa Catarina, Florianopolis, Brazil
+- Fuzhou University, Fuzhou, China
+- Hangzhou Dianzi University, Hangzhou, China
+- Indian Institute of Science, Bangalore, India
+- Jinan University, Guangzhou, China
+- KU Leuven, Leuven, Belgium
+- Mondragon University, Hernani, Spain
+- Nanjing University of Posts and Telecommunications, Nanjing, China
+- Nanyang Technological University, Singapore
+- Nation Taipei University of Technology, Taipei, Taiwan
+- Northeastern University, Boston MA, USA
+- Paderborn University, Paderborn, Germany
+- Politecnico di Torino, Torino, Italy
+- Seoul National University, Seoul, South Korea
+- Silicon Austria Labs, Graz, Austria
+- Southeast University Team 1, Nanjing, China
+- Southeast University Team 2, Nanjing, China
+- Tribhuvan University, Latipur, Nepal
+- Tsinghua University, Beijing, China
+- University of Bristol, Bristol, UK
+- University of Colorado Boulder, Boulder CO, USA
+- University of Kassel, Kassel, Germany
+- University of Manchester, Manchester, UK
+- University of Nottingham, Nottingham, UK
+- University of Tennessee, Knoxville, USA
+- University of Twente Team 1, Enschede, Netherlands
+- University of Twente Team 2, Enschede, Netherlands
+- Universidad Politécnica de Madrid, Madrid, Spain
+- Xi'an Jiaotong University, Xi'an, China
+- Zhejiang University, Hangzhou, China
+- Zhejiang University-UIUC, Hangzhou, China
