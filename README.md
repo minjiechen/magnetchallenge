@@ -55,5 +55,5 @@
 <img src="img/magnetteam.jpg" width="1500">
 
 ## Sponsors
-<img src="img/sponaor.jpg" width="1500">
+<img src="img/sponsor.jpg" width="1500">
 
