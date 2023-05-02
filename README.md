@@ -1,4 +1,4 @@
-# Latest Information about the MagNet Challenge 2023
+# MagNet Challenge 2023
 <img src="img/mclogo.jpg" width="800">
 
 ## Website
