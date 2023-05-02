@@ -1,6 +1,6 @@
 # IEEE International Challenge in Design Methods for Power Electronics
 ## 2023 PELS-Google-Tesla-Princeton MagNet Challenge (MagNet 2023)
-<img src="img/mclogo.jpg" width="1500">
+<img src="img/mclogo.jpg" width="800">
 
 ## Website
 
@@ -56,8 +56,8 @@
 - Zhejiang University-UIUC, Hangzhou, 🇨🇳
 
 ## Organizers
-<img src="img/magnetteam.jpg" width="1500">
+<img src="img/magnetteam.jpg" width="800">
 
 ## Sponsors
-<img src="img/sponsor.jpg" width="1500">
+<img src="img/sponsor.jpg" width="800">
 
