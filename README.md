@@ -1,5 +1,5 @@
-# IEEE International Challenge in Design Methods for Power Electronics
-## 2023 PELS-Google-Tesla-Princeton MagNet Challenge (MagNet 2023)
+** IEEE International Challenge in Design Methods for Power Electronics **
+# 2023 PELS-Google-Tesla-Princeton MagNet Challenge (MagNet 2023)
 <img src="img/mclogo.jpg" width="800">
 
 ## Website
