@@ -25,12 +25,12 @@
 
 ## MagNet Challenge Awards
 
-- Tesla Award for Model Performance First Place $10,000	
-- PELS Award for Model Performance Second Place $5,000
-- Google Award for Model Novelty First Place $10,000
-- PELS Award for Model Novelty Second Place $5,000
-- Princeton CSML Award for Outstanding Software Engineering $5,000
-- PELS Honorable Mentions $1,000 x multiple
+- Model Performance First Place $10,000
+- Model Performance Second Place $5,000
+- Model Novelty First Place $10,000
+- Model Novelty Second Place $5,000
+- Outstanding Software Engineering Award $5,000
+- Honorable Mentions Award $1,000 x multiple
 
 ## Participating Teams (05-02-2023)
 
