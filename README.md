@@ -10,10 +10,10 @@
 - 04-01-2023 Data for 10 Materials Available [Download](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
 - 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Slides](docs/webinar.pdf)
 - 05-12-2023 MagNet Webinar Series #2 - Equation-based Method [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
-- 05-15-2023 Letter of Intent Due with Signature [Download](docs/registration.pdf) 
+- 05-15-2023 1-Page Letter of Intent Due with Signature [Download](docs/registration.pdf) 
 - 05-19-2023 MagNet Webinar Series #3 - Machine Learning Method [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
 - 05-26-2023 MagNet Webinar Series #4 - Data Complexity and Quality [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
-- 06-15-2023 Concept Proposal Due [PDF](docs/template.pdf) [DOC](docs/template.doc)
+- 06-15-2023 2-Page Concept Proposal Due [PDF](docs/template.pdf) [DOC](docs/template.doc)
 - 07-01-2023 Notification of Acceptance
 - 11-01-2023 Preliminary Submission Due, Finalists Selected
 - 12-24-2023 Final Submission Due
