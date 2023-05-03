@@ -45,7 +45,7 @@
 - Jinan University, Guangzhou, China 🇨🇳
 - KU Leuven, Leuven, Belgium 🇧🇪
 - Mondragon University, Hernani, Spain 🇪🇸
-- Nanjing University of Posts and Telecommunications, Nanjing, China 🇨🇳
+- Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
 - Nanyang Technological University, Singapore 🇸🇬
 - Nation Taipei University of Technology, Taipei, Taiwan 🇹🇼
 - Northeastern University, Boston MA, USA 🇺🇸
