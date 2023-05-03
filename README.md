@@ -59,8 +59,8 @@
 
 ## Related Websites
 
-- Homepage of Princeton [MagNet Initiative](https://mag-net.princeton.edu/)
-- Homepage of PELS [MagNet Challenge](https://minjiechen.github.io/magnetchallenge/)
+- Homepage of [Princeton MagNet Initiative](https://mag-net.princeton.edu/)
+- Homepage of [PELS MagNet Challenge](https://minjiechen.github.io/magnetchallenge/)
 
 ## Organizers
 <img src="img/magnetteam.jpg" width="800">
