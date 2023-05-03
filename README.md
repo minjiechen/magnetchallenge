@@ -72,9 +72,11 @@
 
 - [MagNet Challenge Homepage](https://minjiechen.github.io/magnetchallenge/)
 - [MagNet Challenge GitHub](https://github.com/minjiechen/magnetchallenge)
-- [Princeton MagNet Initiative](https://mag-net.princeton.edu/)
+- [MagNet-AI Platform](https://mag-net.princeton.edu/)
+- [MagNet-AI GitHub](https://github.com/PrincetonUniversity/Magnet)
 - [Princeton Power Electronics Research Lab](https://www.princeton.edu/~minjie/magnet.html)
 - [Dartmouth PMIC](https://pmic.engineering.dartmouth.edu/)
+- [ETHz PES](https://pes.ee.ethz.ch/)
 
 ## Organizers
 <img src="img/magnetteam.jpg" width="800">
