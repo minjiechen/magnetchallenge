@@ -11,7 +11,7 @@
 - 02-01-2023 Call for Participation and [MagNet Handbook](docs/handbook.pdf)
 - 03-21-2023 MagNet Database [Data Quality Report](docs/dataquality.pdf)
 - 04-01-2023 Data for 10 Materials Available [Dropbox Folder (04-07-2023)](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
-- 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Slides] (docs/webinar.pdf)
+- 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Slides](docs/webinar.pdf)
 - 05-01-2023 [Letter of Intent](docs/registration.pdf) Due with Signature
 - 06-01-2023 Proposal (2-Page IEEE Format) Due for Eligibility Check
 - 07-01-2023 Notification of Acceptance
