@@ -7,7 +7,7 @@
 - 03-21-2023 [Data Quality Report](docs/dataquality.pdf)
 - 04-01-2023 [Data for 10 Materials](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
 - 04-07-2023 [MagNet Webinar Series #1 - Kickoff Meeting Slides](docs/webinar.pdf)
-- 05-01-2023 [Letter of Intent](docs/registration.pdf) Due with Signature
+- 05-15-2023 [Letter of Intent Due with Signature](docs/registration.pdf) 
 - 06-01-2023 Proposal (2-Page IEEE Format) Due for Eligibility Check
 - 07-01-2023 Notification of Acceptance
 - 11-01-2023 Preliminary Submission Due, Finalists Selected
