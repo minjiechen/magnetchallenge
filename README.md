@@ -11,7 +11,7 @@
 - 05-15-2023 [Letter of Intent Due with Signature](docs/registration.pdf) 
 - 05-19-2023 [MagNet Webinar Series #3 - Machine Learning Method](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
 - 05-26-2023 [MagNet Webinar Series #4 - Data Complexity and Quality](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
-- 06-15-2023 Concept Proposal (2-Page IEEE TPEL Format) Due
+- 06-15-2023 [Concept Proposal](docs/template.doc) Due (2-Page IEEE TPEL Format)
 - 07-01-2023 Notification of Acceptance
 - 11-01-2023 Preliminary Submission Due, Finalists Selected
 - 12-24-2023 Final Submission Due
