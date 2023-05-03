@@ -36,7 +36,8 @@
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
 - Arizona State University, Tempe AZ, USA 🇺🇸
-- Cornell University, Ithaca, USA 🇺🇸
+- Cornell University Team 1, Ithaca, USA 🇺🇸
+- Cornell University Team 2, Ithaca, USA 🇺🇸
 - Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷
 - Fuzhou University, Fuzhou, China 🇨🇳
 - Hangzhou Dianzi University, Hangzhou, China 🇨🇳
@@ -56,6 +57,7 @@
 - Southeast University Team 2, Nanjing, China 🇨🇳
 - Tribhuvan University, Latipur, Nepal 🇳🇵
 - Tsinghua University, Beijing, China 🇨🇳
+- TU Delft, Delft, Netherland 🇳🇱
 - University of Bristol, Bristol, UK 🇬🇧
 - University of Colorado Boulder, Boulder CO, USA 🇺🇸
 - University of Kassel, Kassel, Germany 🇩🇪
