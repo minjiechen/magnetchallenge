@@ -36,6 +36,7 @@
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
 - Arizona State University, Tempe AZ, USA 🇺🇸
+- Cornell University, Ithaca, USA 🇺🇸
 - Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷
 - Fuzhou University, Fuzhou, China 🇨🇳
 - Hangzhou Dianzi University, Hangzhou, China 🇨🇳
