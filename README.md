@@ -70,8 +70,9 @@
 
 ## Related Websites
 
+- [MagNet Challenge Homepage](https://minjiechen.github.io/magnetchallenge/)
+- [MagNet Challenge GitHub](https://github.com/minjiechen/magnetchallenge)
 - [Princeton MagNet Initiative](https://mag-net.princeton.edu/)
-- [PELS MagNet Challenge](https://minjiechen.github.io/magnetchallenge/)
 - [Princeton Power Electronics Research Lab](https://www.princeton.edu/~minjie/magnet.html)
 - [Dartmouth PMIC](https://pmic.engineering.dartmouth.edu/)
 
