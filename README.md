@@ -23,6 +23,15 @@
 
 - 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Video](https://www.youtube.com/embed/vXiF10Ycqi4)
 
+## MagNet Challenge Awards
+
+- Tesla Award for Model Performance 1st Place $10,000	
+- Google Award for Model Novelty 1st Place $10,000	
+- Princeton CSML Award for Outstanding Software Engineering $5,000
+- PELS Award for Model Performance 2nd Place $5,000	
+- PELS Award for Model Novelty 2nd Place $5,000	
+- PELS Honorable Mentions $1,000 x multiple
+
 ## Participating Teams (05-02-2023)
 
 - Aalborg University, Aalborg, 🇩🇰
