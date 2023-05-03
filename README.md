@@ -1,11 +1,11 @@
 # MagNet Challenge 2023
 <img src="img/mclogo.jpg" width="800">
 
-## Please contact pelsmagnet@gmail.com for all purposes
+## Please contact [pelsmagnet@gmail.com](pelsmagnet@gmail.com) for all purposes
 
 ## MagNet Challenge Timeline
 
-- 02-01-2023 MagNet Challenge Announced [PDF](docs/handbook.pdf)
+- 02-01-2023 MagNet Challenge Handbook Released [PDF](docs/handbook.pdf)
 - 03-21-2023 Data Quality Report [PDF](docs/dataquality.pdf)
 - 04-01-2023 Data for 10 Materials Available [Dropbox](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
 - 05-15-2023 1-Page Letter of Intent Due with Signature [PDF](docs/registration.pdf) 
