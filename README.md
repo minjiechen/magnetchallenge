@@ -15,7 +15,7 @@
 - 07-01-2023 Notification of Acceptance
 - 11-01-2023 Preliminary Submission Due, Finalists Selected
 - 12-24-2023 Final Submission Due
-- 03-01-2023 Winner Announcement and Presentation
+- 03-01-2024 Winner Announcement and Presentation
 
 ## MagNet Webinar Recordings
 
