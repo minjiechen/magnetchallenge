@@ -1,11 +1,6 @@
 # MagNet Challenge 2023
 <img src="img/mclogo.jpg" width="800">
 
-## Website
-
-- Homepage of Princeton [MagNet Initiative](https://mag-net.princeton.edu/)
-- Homepage of PELS [MagNet Challenge](https://minjiechen.github.io/magnetchallenge/)
-
 ## MagNet Challenge Timeline
 
 - 02-01-2023 Call for Participation and [MagNet Handbook](docs/handbook.pdf)
@@ -58,6 +53,11 @@
 - Xi'an Jiaotong University, Xi'an, 🇨🇳
 - Zhejiang University, Hangzhou, 🇨🇳
 - Zhejiang University-UIUC, Hangzhou, 🇨🇳
+
+## Related Websites
+
+- Homepage of Princeton [MagNet Initiative](https://mag-net.princeton.edu/)
+- Homepage of PELS [MagNet Challenge](https://minjiechen.github.io/magnetchallenge/)
 
 ## Organizers
 <img src="img/magnetteam.jpg" width="800">
