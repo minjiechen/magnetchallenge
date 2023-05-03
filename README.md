@@ -22,6 +22,9 @@
 ## MagNet Webinar Recordings
 
 - 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Video](https://www.youtube.com/embed/vXiF10Ycqi4)
+- 05-12-2023 MagNet Webinar Series #2 - Equation-based Method
+- 05-19-2023 MagNet Webinar Series #3 - Machine Learning Method
+- 05-26-2023 MagNet Webinar Series #4 - Data Complexity and Quality
 
 ## MagNet Challenge Awards
 
