@@ -21,7 +21,7 @@
 
 ## MagNet Webinar Recordings
 
-- 04-07-2023 [MagNet Webinar Series #1 - Kickoff Meeting] (https://www.youtube.com/embed/vXiF10Ycqi4)
+- 04-07-2023 [MagNet Webinar Series #1 - Kickoff Meeting](https://www.youtube.com/embed/vXiF10Ycqi4)
 
 ## Participating Teams (05-02-2023)
 
