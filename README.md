@@ -6,17 +6,22 @@
 - Homepage of Princeton [MagNet Initiative](https://mag-net.princeton.edu/)
 - Homepage of PELS [MagNet Challenge](https://minjiechen.github.io/magnetchallenge/)
 
-## MagNet Documents
+## MagNet Challenge Timeline
 
-- Latest Version of the [MagNet Handbook (04-07-2023)](docs/handbook.pdf)
-- Slides for [MagNet Webinar Series #1 (04-07-2023)](docs/webinar.pdf)
-- MagNet Database [Data Quality Report (03-21-2023)](docs/dataquality.pdf)
-- Download the [Registration Form (04-07-2023)](docs/registration.pdf)
-- Download Data for 10 Materials [Dropbox Folder (04-07-2023)](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
+- 02-01-2023 Call for Participation and [MagNet Handbook](docs/handbook.pdf)
+- 03-21-2023 MagNet Database [Data Quality Report](docs/dataquality.pdf)
+- 04-01-2023 Data for 10 Materials Available [Dropbox Folder (04-07-2023)](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
+- 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Slides] (docs/webinar.pdf)
+- 05-01-2023 [Letter of Intent](docs/registration.pdf) Due with Signature
+- 06-01-2023 Proposal (2-Page IEEE Format) Due for Eligibility Check
+- 07-01-2023 Notification of Acceptance
+- 11-01-2023 Preliminary Submission Due, Finalists Selected
+- 12-24-2023 Final Submission Due
+- 03-01-2023 Winner Announcement and Presentation
 
-## MagNet Webinars
+## MagNet Webinar Recordings
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/vXiF10Ycqi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- 04-07-2023 [MagNet Webinar Series #1 - Kickoff Meeting] (https://www.youtube.com/embed/vXiF10Ycqi4)
 
 ## Participating Teams (05-02-2023)
 
