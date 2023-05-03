@@ -34,39 +34,39 @@
 
 ## Participating Teams (05-02-2023)
 
-- Aalborg University, Aalborg, 🇩🇰
-- Arizona State University, Tempe AZ, 🇺🇸
-- Federal University of Santa Catarina, Florianopolis, 🇧🇷
-- Fuzhou University, Fuzhou, 🇨🇳
-- Hangzhou Dianzi University, Hangzhou, 🇨🇳
-- Indian Institute of Science, Bangalore, 🇮🇳
-- Jinan University, Guangzhou, 🇨🇳
-- KU Leuven, Leuven, 🇧🇪
-- Mondragon University, Hernani, 🇪🇸
-- Nanjing University of Posts and Telecommunications, Nanjing, 🇨🇳
-- Nanyang Technological University, 🇸🇬
-- Nation Taipei University of Technology, Taipei, 🇹🇼
-- Northeastern University, Boston MA, 🇺🇸
-- Paderborn University, Paderborn, 🇩🇪
-- Politecnico di Torino, Torino, 🇮🇹
-- Seoul National University, Seoul, 🇰🇷
-- Silicon Austria Labs, Graz, 🇦🇹
-- Southeast University Team 1, Nanjing, 🇨🇳
-- Southeast University Team 2, Nanjing, 🇨🇳
-- Tribhuvan University, Latipur, 🇳🇵
-- Tsinghua University, Beijing, 🇨🇳
-- University of Bristol, Bristol, 🇬🇧
-- University of Colorado Boulder, Boulder CO, 🇺🇸
-- University of Kassel, Kassel, 🇩🇪
-- University of Manchester, Manchester, 🇬🇧
-- University of Nottingham, Nottingham, 🇬🇧
-- University of Tennessee, Knoxville, 🇺🇸
-- University of Twente Team 1, Enschede, 🇳🇱
-- University of Twente Team 2, Enschede, 🇳🇱
-- Universidad Politécnica de Madrid, Madrid, 🇪🇸
-- Xi'an Jiaotong University, Xi'an, 🇨🇳
-- Zhejiang University, Hangzhou, 🇨🇳
-- Zhejiang University-UIUC, Hangzhou, 🇨🇳
+- Aalborg University, Aalborg, Denmark 🇩🇰
+- Arizona State University, Tempe AZ, USA 🇺🇸
+- Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷
+- Fuzhou University, Fuzhou, China 🇨🇳
+- Hangzhou Dianzi University, Hangzhou, China 🇨🇳
+- Indian Institute of Science, Bangalore, India 🇮🇳
+- Jinan University, Guangzhou, China 🇨🇳
+- KU Leuven, Leuven, Belgium 🇧🇪
+- Mondragon University, Hernani, Spain 🇪🇸
+- Nanjing University of Posts and Telecommunications, Nanjing, China 🇨🇳
+- Nanyang Technological University, Singapore 🇸🇬
+- Nation Taipei University of Technology, Taipei, Taiwan 🇹🇼
+- Northeastern University, Boston MA, USA 🇺🇸
+- Paderborn University, Paderborn, Germany 🇩🇪
+- Politecnico di Torino, Torino, Italy 🇮🇹
+- Seoul National University, Seoul, Korea 🇰🇷
+- Silicon Austria Labs, Graz, Austria 🇦🇹
+- Southeast University Team 1, Nanjing, China 🇨🇳
+- Southeast University Team 2, Nanjing, China 🇨🇳
+- Tribhuvan University, Latipur, Nepal 🇳🇵
+- Tsinghua University, Beijing, China 🇨🇳
+- University of Bristol, Bristol, UK 🇬🇧
+- University of Colorado Boulder, Boulder CO, USA 🇺🇸
+- University of Kassel, Kassel, Germany 🇩🇪
+- University of Manchester, Manchester, UK 🇬🇧
+- University of Nottingham, Nottingham, UK 🇬🇧
+- University of Tennessee, Knoxville, USA 🇺🇸
+- University of Twente Team 1, Enschede, Netherland 🇳🇱
+- University of Twente Team 2, Enschede, Netherland 🇳🇱
+- Universidad Politécnica de Madrid, Madrid, Spain 🇪🇸
+- Xi'an Jiaotong University, Xi'an, China 🇨🇳
+- Zhejiang University, Hangzhou, China 🇨🇳
+- Zhejiang University-UIUC, Hangzhou, China 🇨🇳
 
 ## Related Websites
 
