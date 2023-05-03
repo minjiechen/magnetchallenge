@@ -1,16 +1,18 @@
 # MagNet Challenge 2023
 <img src="img/mclogo.jpg" width="800">
 
+## Please contact pelsmagnet@gmail.com for all purposes
+
 ## MagNet Challenge Timeline
 
 - 02-01-2023 [MagNet Handbook](docs/handbook.pdf)
 - 03-21-2023 [Data Quality Report](docs/dataquality.pdf)
 - 04-01-2023 [Data for 10 Materials](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
-- 04-07-2023 [MagNet Webinar Series #1 - Kickoff Meeting](docs/webinar.pdf)
-- 05-12-2023 [MagNet Webinar Series #2 - Equation-based Method](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
+- 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Slides](docs/webinar.pdf)
+- 05-12-2023 MagNet Webinar Series #2 - Equation-based Method [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
 - 05-15-2023 [Letter of Intent Due with Signature](docs/registration.pdf) 
-- 05-19-2023 [MagNet Webinar Series #3 - Machine Learning Method](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
-- 05-26-2023 [MagNet Webinar Series #4 - Data Complexity and Quality](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
+- 05-19-2023 MagNet Webinar Series #3 - Machine Learning Method [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
+- 05-26-2023 MagNet Webinar Series #4 - Data Complexity and Quality [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
 - 06-15-2023 [Concept Proposal](docs/template.pdf) Due [Download Template](docs/template.doc)
 - 07-01-2023 Notification of Acceptance
 - 11-01-2023 Preliminary Submission Due, Finalists Selected
