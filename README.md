@@ -1,7 +1,8 @@
 # MagNet Challenge 2023
 <img src="img/mclogo.jpg" width="800">
 
-## This site provides the latest information about the MagNet Challenge. Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes
+## This site provides the latest information about the MagNet Challenge. 
+## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
 ## MagNet Challenge Timeline
 
