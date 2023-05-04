@@ -66,6 +66,7 @@
 - University of Tennessee, Knoxville, USA 🇺🇸
 - University of Twente Team 1, Enschede, Netherland 🇳🇱
 - University of Twente Team 2, Enschede, Netherland 🇳🇱
+- University of Wisconsin-Madison, Madison MI, USA 🇺🇸
 - Universidad Politécnica de Madrid, Madrid, Spain 🇪🇸
 - Xi'an Jiaotong University, Xi'an, China 🇨🇳
 - Zhejiang University, Hangzhou, China 🇨🇳
