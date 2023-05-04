@@ -19,9 +19,13 @@
 ## MagNet Webinar Recordings
 
 - 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Video Recording](https://www.youtube.com/embed/vXiF10Ycqi4)
-- 05-12-2023 MagNet Webinar Series #2 - Equation-based Method [Zoom](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
-- 05-19-2023 MagNet Webinar Series #3 - Machine Learning Method [Zoom](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
-- 05-26-2023 MagNet Webinar Series #4 - Data Complexity and Quality [Zoom](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
+- 05-12-2023 MagNet Webinar Series #2 - Equation-based Method [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
+- 05-19-2023 MagNet Webinar Series #3 - Machine Learning Method [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
+- 05-26-2023 MagNet Webinar Series #4 - Data Complexity and Quality [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
+
+## MagNet Challenge Discussions
+
+- MagNet GitHub Discussion Forum [Link](https://github.com/minjiechen/magnetchallenge/discussions)
 
 ## MagNet Challenge Awards
 
