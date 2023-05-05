@@ -29,12 +29,12 @@
 
 ## MagNet Challenge Awards
 
-- Model Performance Award, First Place $10,000
-- Model Performance Award, Second Place $5,000
-- Model Novelty Award, First Place $10,000
-- Model Novelty Award, Second Place $5,000
-- Outstanding Software Engineering Award $5,000
-- Honorable Mentions Award $1,000 x multiple
+- Model Performance Award, First Place        $10,000
+- Model Performance Award, Second Place       $5,000
+- Model Novelty Award, First Place            $10,000
+- Model Novelty Award, Second Place           $5,000
+- Outstanding Software Engineering Award      $5,000
+- Honorable Mentions Award         multiple x $1,000
 
 ## Participating Teams (05-02-2023)
 
