@@ -16,6 +16,15 @@
 - 12-24-2023 Final Submission Due
 - 03-01-2024 Winner Announcement and Presentation
 
+## Evaluation Criterias
+
+The judging committee will evaluate the results of each team with the following criterias.
+- Model accuracy (30%): core loss prediction accuracy evaluated by 95th percentile error
+- Model size (30%): number of parameters the model needs to store for each material
+- Model explanability (20%): explanability of the model based on existing physical insights
+- Model novelty (10%): new concepts or insights presented by the model
+- Software quality (10%): quality of the software engineering
+
 ## MagNet Webinar Recordings
 
 - 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Video Recording](https://www.youtube.com/embed/vXiF10Ycqi4)
