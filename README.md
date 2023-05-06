@@ -18,9 +18,9 @@
 
 ## Evaluation Timeline
 
-- 06-15-2023 Evaluate the concept proposal and ensure all teams understand the competition rules.
+- 06-15-2023 Evaluate the concept proposals and ensure all teams understand the competition rules.
 - 11-01-2023 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
-- 12-24-2023 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winner.
+- 12-24-2023 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winners.
 
 ## Evaluation Criterias
 
