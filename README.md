@@ -16,6 +16,12 @@
 - 12-24-2023 Final Submission Due
 - 03-01-2024 Winner Announcement and Presentation
 
+## Evaluation Timeline
+
+- 06-15-2023 Evaluate the concept proposal and ensure all teams understand the competition rules.
+- 11-01-2023 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
+- 12-24-2023 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winner.
+
 ## Evaluation Criterias
 
 The judging committee will evaluate the results of each team with the following criterias.
