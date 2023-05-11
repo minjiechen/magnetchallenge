@@ -84,6 +84,7 @@ The judging committee will evaluate the results of each team with the following 
 - University of Kassel, Kassel, Germany 🇩🇪
 - University of Manchester, Manchester, UK 🇬🇧
 - University of Nottingham, Nottingham, UK 🇬🇧
+- University of Sydney, Sydney, Australia 🇦🇺
 - University of Tennessee, Knoxville, USA 🇺🇸
 - University of Twente Team 1, Enschede, Netherland 🇳🇱
 - University of Twente Team 2, Enschede, Netherland 🇳🇱
