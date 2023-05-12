@@ -27,11 +27,11 @@
 ## Evaluation Criterias
 
 The judging committee will evaluate the results of each team with the following criterias.
-- Model accuracy (30%): core loss prediction accuracy evaluated by 95th percentile error
-- Model size (30%): number of parameters the model needs to store for each material
-- Model explanability (20%): explanability of the model based on existing physical insights
-- Model novelty (10%): new concepts or insights presented by the model
-- Software quality (10%): quality of the software engineering
+- Model accuracy (30%): core loss prediction accuracy evaluated by 95th percentile error (lower error better)
+- Model size (30%): number of parameters the model needs to store for each material (smaller model better)
+- Model explanability (20%): explanability of the model based on existing physical insights (more explainable better)
+- Model novelty (10%): new concepts or insights presented by the model (newer insights better)
+- Software quality (10%): quality of the software engineering (more concise better)
 
 ## MagNet Webinar Recordings
 
