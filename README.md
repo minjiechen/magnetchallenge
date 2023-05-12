@@ -47,7 +47,7 @@ The judging committee will evaluate the results of each team with the following 
 ## MagNet Tools
 
 - MagNet: Equation-based Baseline Models - by Dr. Thomas Guillod (Dartmouth) [Link](https://github.com/otvam/magnet_webinar_eqn_models)
-- MagNet: Machine Learning Tutorials - by Haoran Li (Princeton) [Link]([https://github.com/otvam/magnet_webinar_eqn_models](https://github.com/minjiechen/magnetchallenge/tree/main/tutorials))
+- MagNet: Machine Learning Tutorials - by Haoran Li (Princeton) [Link](https://github.com/otvam/magnet_webinar_eqn_models](https://github.com/minjiechen/magnetchallenge/tree/main/tutorials)
 
 ## MagNet Challenge Awards
 
