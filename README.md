@@ -44,6 +44,11 @@ The judging committee will evaluate the results of each team with the following 
 
 - MagNet GitHub Discussion Forum [Link](https://github.com/minjiechen/magnetchallenge/discussions)
 
+## MagNet Tools
+
+- MagNet: Equation-based Baseline Models - by Dr. Thomas Guillod (Dartmouth) [Link](https://github.com/otvam/magnet_webinar_eqn_models)
+- MagNet: Machine Learning Tutorials - by Haoran Li (Princeton) [Link]([https://github.com/otvam/magnet_webinar_eqn_models](https://github.com/minjiechen/magnetchallenge/tree/main/tutorials))
+
 ## MagNet Challenge Awards
 
 - Model Performance Award, First Place        $10,000
