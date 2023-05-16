@@ -77,7 +77,7 @@ The judging committee will evaluate the results of each team with the following 
 - Northeastern University, Boston MA, USA 🇺🇸
 - Paderborn University, Paderborn, Germany 🇩🇪
 - Politecnico di Torino, Torino, Italy 🇮🇹
-- Purdue University, West Lafayette IN, 🇺🇸
+- Purdue University, West Lafayette IN, USA 🇺🇸
 - Seoul National University, Seoul, Korea 🇰🇷
 - Silicon Austria Labs, Graz, Austria 🇦🇹
 - Southeast University Team 1, Nanjing, China 🇨🇳
