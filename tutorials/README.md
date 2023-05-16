@@ -4,7 +4,7 @@
 
 Here we provide a few step-by-step tutorials to explain how MagNet AI work. 
 
-For PyTorch beginners, we recommend using [Google Golab](https://colab.research.google.com/)(free) to simplify the learning process.
+For PyTorch beginners, we recommend using [Google Golab](https://colab.research.google.com/) (free) to simplify the learning process.
 
 ## Overview: Encoder-projector-decoder Neural Network Architecture
 
