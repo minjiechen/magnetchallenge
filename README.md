@@ -37,7 +37,7 @@ The judging committee will evaluate the results of each team with the following 
 
 - 04-07-2023 MagNet Webinar Series #1 - Kickoff Meeting [Video](https://www.youtube.com/embed/vXiF10Ycqi4) [PDF](docs/webinar-1.pdf) 
 - 05-12-2023 MagNet Webinar Series #2 - Equation-based Method [Video](https://www.youtube.com/watch?v=K1pZg0BAOss) [PDF](docs/webinar-2.pdf)
-- 05-19-2023 MagNet Webinar Series #3 - Machine Learning Method [Video](https://www.youtube.com/watch?v=K1pZg0BAOss) [PDF](docs/webinar-3.pdf)
+- 05-19-2023 MagNet Webinar Series #3 - Machine Learning Method [Video](https://www.youtube.com/watch?v=vEndPeBn6ng) [PDF](docs/webinar-3.pdf)
 - 05-26-2023 MagNet Webinar Series #4 - Data Complexity and Quality [Registration](https://princeton.zoom.us/meeting/register/tJcof-mqrD8jEtVytv3HjTxTonnLye0Y4MBl)
 
 ## MagNet Challenge Discussions
