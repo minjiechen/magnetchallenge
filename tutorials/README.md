@@ -2,7 +2,7 @@
 
 ## Tutorial
 
-Here we provide a few step-by-step tutorials to explain how MagNet AI work. 
+Here we provide a few step-by-step tutorials to explain how MagNet AI work. Some of the algorithms have been deployed at [MagNet Website](https://mag-net.princeton.edu).
 
 For PyTorch beginners, we recommend using [Google Golab](https://colab.research.google.com/) (free) to simplify the learning process.
 
