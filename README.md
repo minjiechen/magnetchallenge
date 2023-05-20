@@ -59,7 +59,7 @@ The judging committee will evaluate the results of each team with the following 
 - Outstanding Software Engineering Award      $5,000
 - Honorable Mentions Award         multiple x $1,000
 
-## Participating Teams (05-02-2023) 39 Teams from 18 Countries
+## Participating Teams (05-20-2023) 40 Teams from 18 Countries
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
 - Arizona State University, Tempe AZ, USA 🇺🇸
