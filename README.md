@@ -62,45 +62,45 @@ The judging committee will evaluate the results of each team with the following 
 ## Participating Teams (05-20-2023) 40 Teams from 18 Countries
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
-- Arizona State University, Tempe AZ, USA 🇺🇸
+- Arizona State University, Tempe AZ, USA 🇺🇸 [Y]
 - Cornell University Team 1, Ithaca, USA 🇺🇸
 - Cornell University Team 2, Ithaca, USA 🇺🇸
 - Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷
-- Fuzhou University, Fuzhou, China 🇨🇳
-- Hangzhou Dianzi University, Hangzhou, China 🇨🇳
+- Fuzhou University, Fuzhou, China 🇨🇳 [Y]
+- Hangzhou Dianzi University, Hangzhou, China 🇨🇳 [Y]
 - Indian Institute of Science, Bangalore, India 🇮🇳
-- Jinan University, Guangzhou, China 🇨🇳
+- Jinan University, Guangzhou, China 🇨🇳 [Y]
 - KU Leuven, Leuven, Belgium 🇧🇪
-- Mondragon University, Hernani, Spain 🇪🇸
+- Mondragon University, Hernani, Spain 🇪🇸 [Y]
 - Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
 - Nanyang Technological University, Singapore 🇸🇬
 - Nation Taipei University of Technology, Taipei, Taiwan 🇹🇼
 - Northeastern University, Boston MA, USA 🇺🇸
-- Paderborn University, Paderborn, Germany 🇩🇪
+- Paderborn University, Paderborn, Germany 🇩🇪 [Y]
 - Politecnico di Torino, Torino, Italy 🇮🇹
 - Princeton University, Princeton NJ, USA 🇺🇸 (Not Competing)
 - Purdue University, West Lafayette IN, USA 🇺🇸
 - Seoul National University, Seoul, Korea 🇰🇷
-- Silicon Austria Labs, Graz, Austria 🇦🇹
-- Southeast University Team 1, Nanjing, China 🇨🇳
-- Southeast University Team 2, Nanjing, China 🇨🇳
+- Silicon Austria Labs, Graz, Austria 🇦🇹 [Y]
+- Southeast University Team 1, Nanjing, China 🇨🇳 [Y]
+- Southeast University Team 2, Nanjing, China 🇨🇳 [Y]
 - Tribhuvan University, Latipur, Nepal 🇳🇵
-- Tsinghua University, Beijing, China 🇨🇳
-- TU Delft, Delft, Netherland 🇳🇱
-- University of Bristol, Bristol, UK 🇬🇧
-- University of Colorado Boulder, Boulder CO, USA 🇺🇸
+- Tsinghua University, Beijing, China 🇨🇳 [Y]
+- TU Delft, Delft, Netherland 🇳🇱 [Y]
+- University of Bristol, Bristol, UK 🇬🇧 [Y]
+- University of Colorado Boulder, Boulder CO, USA 🇺🇸 [Y]
 - University of Kassel, Kassel, Germany 🇩🇪
 - University of Manchester, Manchester, UK 🇬🇧
 - University of Nottingham, Nottingham, UK 🇬🇧
-- University of Sydney, Sydney, Australia 🇦🇺
+- University of Sydney, Sydney, Australia 🇦🇺 [Y]
 - University of Tennessee, Knoxville, USA 🇺🇸
 - University of Twente Team 1, Enschede, Netherland 🇳🇱
 - University of Twente Team 2, Enschede, Netherland 🇳🇱
-- University of Wisconsin-Madison, Madison MI, USA 🇺🇸
+- University of Wisconsin-Madison, Madison MI, USA 🇺🇸 [Y]
 - Universidad Politécnica de Madrid, Madrid, Spain 🇪🇸
 - Xi'an Jiaotong University, Xi'an, China 🇨🇳
-- Zhejiang University, Hangzhou, China 🇨🇳
-- Zhejiang University-UIUC, Hangzhou, China 🇨🇳
+- Zhejiang University, Hangzhou, China 🇨🇳 [Y]
+- Zhejiang University-UIUC, Hangzhou, China 🇨🇳 [Y]
 
 ## Related Websites
 
