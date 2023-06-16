@@ -91,7 +91,7 @@ The judging committee will evaluate the results of each team with the following 
 - University of Colorado Boulder, Boulder CO, USA 🇺🇸 [Y]
 - University of Kassel, Kassel, Germany 🇩🇪 [Y]
 - University of Manchester, Manchester, UK 🇬🇧
-- University of Nottingham, Nottingham, UK 🇬🇧
+- University of Nottingham, Nottingham, UK 🇬🇧 [Y]
 - University of Sydney, Sydney, Australia 🇦🇺 [Y]
 - University of Tennessee, Knoxville, USA 🇺🇸 [Y]
 - University of Twente Team 1, Enschede, Netherland 🇳🇱 [Y]
