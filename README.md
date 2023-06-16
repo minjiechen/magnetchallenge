@@ -74,7 +74,7 @@ The judging committee will evaluate the results of each team with the following 
 - Mondragon University, Hernani, Spain 🇪🇸 [Y]
 - Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
 - Nanyang Technological University, Singapore 🇸🇬 [Y]
-- Nation Taipei University of Technology, Taipei, Taiwan 🇹🇼 [Y]
+- National Taipei University of Technology, Taipei, Taiwan 🇹🇼 [Y]
 - Northeastern University, Boston MA, USA 🇺🇸 [Y]
 - Paderborn University, Paderborn, Germany 🇩🇪 [Y]
 - Politecnico di Torino, Torino, Italy 🇮🇹 [Y]
