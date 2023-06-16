@@ -12,6 +12,7 @@
 - 05-15-2023 1-Page Letter of Intent Due with Signature [PDF](docs/registration.pdf) 
 - 06-15-2023 2-Page Concept Proposal Due [PDF](docs/template.pdf) [DOC](docs/template.doc) [Latex](docs/ieeetran.zip)
 - 07-01-2023 Notification of Acceptance
+- 08-01-2023 Expert Feedback on the Concept Proposal
 - Teams develop a semi/fully-automated software pipeline to process data and generate models for 10 materials
 - 11-01-2023 Preliminary Submission Due
 - Teams use the previously developed software pipeline to process new data and generate models for 3 new materials
