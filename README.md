@@ -63,23 +63,23 @@ The judging committee will evaluate the results of each team with the following 
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
 - Arizona State University, Tempe AZ, USA 🇺🇸 [Y]
-- Cornell University Team 1, Ithaca, USA 🇺🇸
+- Cornell University Team 1, Ithaca, USA 🇺🇸 [Y]
 - Cornell University Team 2, Ithaca, USA 🇺🇸
-- Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷
+- Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷 [Y]
 - Fuzhou University, Fuzhou, China 🇨🇳 [Y]
 - Hangzhou Dianzi University, Hangzhou, China 🇨🇳 [Y]
-- Indian Institute of Science, Bangalore, India 🇮🇳
+- Indian Institute of Science, Bangalore, India 🇮🇳 [Y]
 - Jinan University, Guangzhou, China 🇨🇳 [Y]
-- KU Leuven, Leuven, Belgium 🇧🇪
+- KU Leuven, Leuven, Belgium 🇧🇪 [Y]
 - Mondragon University, Hernani, Spain 🇪🇸 [Y]
 - Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
-- Nanyang Technological University, Singapore 🇸🇬
-- Nation Taipei University of Technology, Taipei, Taiwan 🇹🇼
-- Northeastern University, Boston MA, USA 🇺🇸
+- Nanyang Technological University, Singapore 🇸🇬 [Y]
+- Nation Taipei University of Technology, Taipei, Taiwan 🇹🇼 [Y]
+- Northeastern University, Boston MA, USA 🇺🇸 [Y]
 - Paderborn University, Paderborn, Germany 🇩🇪 [Y]
-- Politecnico di Torino, Torino, Italy 🇮🇹
+- Politecnico di Torino, Torino, Italy 🇮🇹 [Y]
 - Princeton University, Princeton NJ, USA 🇺🇸 (Not Competing)
-- Purdue University, West Lafayette IN, USA 🇺🇸
+- Purdue University, West Lafayette IN, USA 🇺🇸 [Y]
 - Seoul National University, Seoul, Korea 🇰🇷
 - Silicon Austria Labs, Graz, Austria 🇦🇹 [Y]
 - Southeast University Team 1, Nanjing, China 🇨🇳 [Y]
@@ -89,20 +89,20 @@ The judging committee will evaluate the results of each team with the following 
 - TU Delft, Delft, Netherland 🇳🇱 [Y]
 - University of Bristol, Bristol, UK 🇬🇧 [Y]
 - University of Colorado Boulder, Boulder CO, USA 🇺🇸 [Y]
-- University of Kassel, Kassel, Germany 🇩🇪
+- University of Kassel, Kassel, Germany 🇩🇪 [Y]
 - University of Manchester, Manchester, UK 🇬🇧
 - University of Nottingham, Nottingham, UK 🇬🇧
 - University of Sydney, Sydney, Australia 🇦🇺 [Y]
-- University of Tennessee, Knoxville, USA 🇺🇸
-- University of Twente Team 1, Enschede, Netherland 🇳🇱
-- University of Twente Team 2, Enschede, Netherland 🇳🇱
+- University of Tennessee, Knoxville, USA 🇺🇸 [Y]
+- University of Twente Team 1, Enschede, Netherland 🇳🇱 [Y]
+- University of Twente Team 2, Enschede, Netherland 🇳🇱 [Y]
 - University of Wisconsin-Madison, Madison MI, USA 🇺🇸 [Y]
-- Universidad Politécnica de Madrid, Madrid, Spain 🇪🇸
-- Xi'an Jiaotong University, Xi'an, China 🇨🇳
+- Universidad Politécnica de Madrid, Madrid, Spain 🇪🇸 [Y]
+- Xi'an Jiaotong University, Xi'an, China 🇨🇳 [Y]
 - Zhejiang University, Hangzhou, China 🇨🇳 [Y]
 - Zhejiang University-UIUC, Hangzhou, China 🇨🇳 [Y]
 
-## Related Websites
+## Related Websitess
 
 - [MagNet Challenge Homepage](https://minjiechen.github.io/magnetchallenge/)
 - [MagNet Challenge GitHub](https://github.com/minjiechen/magnetchallenge)
