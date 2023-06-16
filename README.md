@@ -61,10 +61,10 @@ The judging committee will evaluate the results of each team with the following 
 
 ## Participating Teams (05-20-2023) 40 Teams from 18 Countries
 
-- Aalborg University, Aalborg, Denmark 🇩🇰
+- Aalborg University, Aalborg, Denmark 🇩🇰 [Y]
 - Arizona State University, Tempe AZ, USA 🇺🇸 [Y]
 - Cornell University Team 1, Ithaca, USA 🇺🇸 [Y]
-- Cornell University Team 2, Ithaca, USA 🇺🇸
+- Cornell University Team 2, Ithaca, USA 🇺🇸 [Y]
 - Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷 [Y]
 - Fuzhou University, Fuzhou, China 🇨🇳 [Y]
 - Hangzhou Dianzi University, Hangzhou, China 🇨🇳 [Y]
@@ -80,7 +80,7 @@ The judging committee will evaluate the results of each team with the following 
 - Politecnico di Torino, Torino, Italy 🇮🇹 [Y]
 - Princeton University, Princeton NJ, USA 🇺🇸 (Not Competing)
 - Purdue University, West Lafayette IN, USA 🇺🇸 [Y]
-- Seoul National University, Seoul, Korea 🇰🇷
+- Seoul National University, Seoul, Korea 🇰🇷 [Y]
 - Silicon Austria Labs, Graz, Austria 🇦🇹 [Y]
 - Southeast University Team 1, Nanjing, China 🇨🇳 [Y]
 - Southeast University Team 2, Nanjing, China 🇨🇳 [Y]
