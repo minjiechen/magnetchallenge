@@ -85,7 +85,7 @@ The judging committee will evaluate the results of each team with the following 
 - Silicon Austria Labs, Graz, Austria 🇦🇹 [Y]
 - Southeast University Team 1, Nanjing, China 🇨🇳 [Y]
 - Southeast University Team 2, Nanjing, China 🇨🇳 [Y]
-- Tribhuvan University, Latipur, Nepal 🇳🇵
+- Tribhuvan University, Latipur, Nepal 🇳🇵 [Y]
 - Tsinghua University, Beijing, China 🇨🇳 [Y]
 - TU Delft, Delft, Netherland 🇳🇱 [Y]
 - University of Bristol, Bristol, UK 🇬🇧 [Y]
