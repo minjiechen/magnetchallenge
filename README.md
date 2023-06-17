@@ -61,7 +61,7 @@ The judging committee will evaluate the results of each team with the following 
 - Honorable Mentions Award         multiple x $1,000
 
 ## Participating Teams (05-20-2023) 40 Teams from 18 Countries
-## All Concept Papers have been Received
+## All 39 Concept Papers have been Received !!!
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
 - Arizona State University, Tempe AZ, USA 🇺🇸
