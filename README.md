@@ -1,4 +1,5 @@
 # MagNet Challenge 2023
+## IEEE PELS-Google-Tesla-Princeton MagNet Challenge
 <img src="img/mclogo.jpg" width="800">
 
 ## This site provides the latest information about the MagNet Challenge. 
