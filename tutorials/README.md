@@ -6,7 +6,7 @@ Here we provide a few step-by-step tutorials to explain how MagNet AI work. Some
 
 For PyTorch beginners, we recommend using [Google Golab](https://colab.research.google.com/) (free) to simplify the learning process.
 
-Attached is the larger [sequence to scaler dataset](https://drive.google.com/file/d/1F9NeccZN5GYBtsMlI-Xk8GZTYLcIcxL_/view), Dataset_full.json, for the core-loss LSTM demo.
+Attached is the larger sequence to scaler dataset, [Dataset_full.json](https://drive.google.com/file/d/1F9NeccZN5GYBtsMlI-Xk8GZTYLcIcxL_/view), for the core-loss LSTM demo.
 
 ## Overview: Encoder-projector-decoder Neural Network Architecture
 
