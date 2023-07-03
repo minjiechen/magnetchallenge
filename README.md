@@ -14,7 +14,7 @@
 - 04-01-2023 Data for 10 Materials Available [Dropbox](https://www.dropbox.com/sh/yk3rsinvsj831a7/AAAC6vPwXSJgruxmq0EbNvrVa?dl=0)
 - 05-15-2023 1-Page Letter of Intent Due with Signature [PDF](docs/registration.pdf) 
 - 06-15-2023 2-Page Concept Proposal Due [PDF](docs/template.pdf) [DOC](docs/template.doc) [Latex](docs/ieeetran.zip)
-- 07-01-2023 Notification of Acceptance
+- 07-01-2023 Notification of Acceptance (all 39 teams accepted)
 - 08-01-2023 Expert Feedback on the Concept Proposal
 - Teams develop a semi/fully-automated software pipeline to process data and generate models for 10 materials
 - 11-01-2023 Preliminary Submission Due
