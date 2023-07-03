@@ -5,7 +5,9 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
+========================================================
 ## **All 39 teams are accepted to the MagNet Challenge!!! We are collecting expert feedback on the concept papers and will be in touch with recommendations soon!**
+========================================================
 
 ## MagNet Challenge Timeline
 
