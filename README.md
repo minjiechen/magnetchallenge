@@ -65,7 +65,7 @@ The judging committee will evaluate the results of each team with the following 
 - Outstanding Software Engineering Award      $5,000
 - Honorable Mentions Award         multiple x $1,000
 
-## Participating Teams (05-20-2023) 40 Teams from 18 Countries
+## Participating Teams (05-20-2023) 40 Teams from 18 Countries (Denmark, USA, Brazil, China, India, Belgium, Spain, Singapore, Taiwan, Germany, Italy, South Korea, Austria, Nepal, Netherland, UK, Australia, Netherland)
 ## All 39 Concept Papers have been Received !!!
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
@@ -87,7 +87,7 @@ The judging committee will evaluate the results of each team with the following 
 - Politecnico di Torino, Torino, Italy 🇮🇹
 - Princeton University, Princeton NJ, USA 🇺🇸 (Not Competing)
 - Purdue University, West Lafayette IN, USA 🇺🇸
-- Seoul National University, Seoul, Korea 🇰🇷
+- Seoul National University, Seoul, South Korea 🇰🇷
 - Silicon Austria Labs, Graz, Austria 🇦🇹
 - Southeast University Team 1, Nanjing, China 🇨🇳
 - Southeast University Team 2, Nanjing, China 🇨🇳
