@@ -6,7 +6,7 @@ Attached are the validation datasets for the ten challenge materials, to evaluat
 
 To calculate error between model predictions and the MagNet measurements, relative error should be used (with the absolute value for the difference between the predicted and measured values). The metrics of interest are average relative error, the 95th percentile, as well as the maximum error.
 
-$Percent\ Relative\  Error = \frac{\left |meas-pred \right |}{meas}\cdot 100$ where $meas$ is MagNet's Core Loss measurement and $pred$ is the model prediction.
+$Percent\ Relative\  Error = \frac{\left |meas-pred \right |}{meas}\cdot 100$, where $meas$ is MagNet's Core Loss measurement and $pred$ is the model prediction.
 
 Also attached is a template for reporting the error distributions for the ten materials on this validation data, as well as a MATLAB script utilized to generate the graphs as an example. 
 
