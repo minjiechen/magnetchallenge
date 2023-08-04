@@ -1,6 +1,6 @@
 ## Validation Data
 
-Data for 10 Materials [Dropbox](https://www.dropbox.com/scl/fo/7blf0m91unme0nf49ifbe/h?rlkey=b2z0s50fyp8j3yy8bfm2dn91t&dl=0)
+Data for 10 Materials [Dropbox](https://www.dropbox.com/sh/4ppuzu7z4ky3m6l/AAApqXcxr_Fnr5x9f5qDr8j8a?dl=0)
 
 Attached are the validation datasets for the ten challenge materials, each consisting of 5,000 randomly sampled datapoints with 0 DC-bias, to evaluate model performance. The data contains $B(t)$ waveforms as well as temperature $T$ and frequency $f$ information. $H(t)$ sequences are also included for further exploration if desired. These datapoints are not intended for training but are only intended for model evaluation. The included core loss measurements should only be used to compare model predictions.
 
