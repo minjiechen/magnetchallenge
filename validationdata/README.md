@@ -13,3 +13,4 @@ The PDF report for the preliminary submission should include the error distribut
 (PDF template for ten materials coming soon)
 
 <img src="../img/ExampleDistributionGraph.jpg" alt="ExampleDistributionGraph" width="540"/>
+* the above graph is just for illustrative purposes and should not be used for comparison.
