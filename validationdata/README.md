@@ -1,6 +1,6 @@
 ## Validation Data
 
-Data for 10 Materials (Dropbox link coming soon)
+Data for 10 Materials [Dropbox](https://www.dropbox.com/scl/fo/7blf0m91unme0nf49ifbe/h?rlkey=b2z0s50fyp8j3yy8bfm2dn91t&dl=0)
 
 Attached are the validation datasets for the ten challenge materials, each consisting of 5,000 randomly sampled datapoints with 0 DC-bias, to evaluate model performance. The data contains $B(t)$ waveforms as well as temperature $T$ and frequency $f$ information. $H(t)$ sequences are also included for further exploration if desired. These datapoints are not intended for training but are only intended for model evaluation. The included core loss measurements should only be used to compare model predictions.
 
@@ -8,6 +8,8 @@ To calculate error between model predictions and the MagNet measurements, relati
 
 $Percent\ Relative\  Error = \frac{\left |meas-pred \right |}{meas}\cdot 100$, where $meas$ is MagNet's Core Loss measurement and $pred$ is the model prediction.
 
-Also attached is a template for reporting the error distributions for the ten materials on this validation data, as well as a MATLAB script utilized to generate the graphs as an example. 
+The PDF report for the preliminary submission should include the error distribution histograms for all ten materials utilizing this validation data, with the metrics of interests clearly visible. Attached is an example template for reporting the error distributions for the ten materials on the validation data, as well as a MATLAB script utilized to generate the graphs as an example.
 
-(files coming soon)
+(PDF template for ten materials coming soon)
+
+<img src="../img/ExampleDistributionGraph.jpg" alt="ExampleDistributionGraph" width="540"/>
