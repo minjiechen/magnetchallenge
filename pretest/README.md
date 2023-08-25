@@ -1,4 +1,4 @@
-## November Preliminary Test
+## MagNet Challenge 2023 November Preliminary Test
 
 On November 1st, a preliminary test result is due to evaluate your already developed models for the 10 materials: 
 
