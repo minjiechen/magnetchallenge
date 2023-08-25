@@ -2,11 +2,11 @@
 
 On November 1st, a preliminary test result is due to evaluate your already developed models for the 10 materials: 
 
-- Step 1: Please download the preliminary test data for the 10 existing materials [Dropbox](https://www.dropbox.com/sh/4ppuzu7z4ky3m6l/AAApqXcxr_Fnr5x9f5qDr8j8a?dl=0), each consisting of 5,000 randomly sampled data from the original database. The data contains $B(t)$ waveforms as well as temperature $T$ and frequency $f$ information. $H(t)$ sequences are also provided.
+- Step 1: Download the preliminary test data for the 10 existing materials [Dropbox](https://www.dropbox.com/sh/4ppuzu7z4ky3m6l/AAApqXcxr_Fnr5x9f5qDr8j8a?dl=0), each consisting of 5,000 randomly sampled data from the original database.
 
 - Step 2: Use this database to evaluate the performance your already-trained models.
 
-- Step 3: Report your results following this template.
+- Step 3: Report your results following the provided template.
 
 To calculate error between model predictions and the MagNet measurements, the relative error should be used (with the absolute value for the difference between the predicted and measured values). The metrics of interest are average relative error, the 95th percentile, as well as the maximum error.
 
