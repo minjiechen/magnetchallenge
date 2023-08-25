@@ -6,7 +6,7 @@ On November 1st, a preliminary test result is due to evaluate your already devel
 
 - Step 2: Use this database to evaluate the performance your already-trained models.
 
-- Step 3: Report your results following the provided template.
+- Step 3: Report your results following the provided template. Zip your Models and Results and send it to pelsmagnet@gmail.com
 
 To calculate error between model predictions and the MagNet measurements, the relative error should be used (with the absolute value for the difference between the predicted and measured values). The metrics of interest are average relative error, the 95th percentile, as well as the maximum error.
 
