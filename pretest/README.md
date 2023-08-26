@@ -8,7 +8,7 @@ On November 1st, a preliminary test result is due to evaluate your already devel
 
 - Step 3: Report your results following the provided [Template](PretestResultsPDF.pdf). Zip your Models and Results and send them to pelsmagnet@gmail.com.
 
-We will use relative error to evaluate your models (with the absolute value for the difference between the predicted and measured values). The metrics of interest are average relative error, the 95th percentile, the maximum error, and the histogram.
+We will use relative error to evaluate your models (the absolute error between the predicted and measured values).
 
 $Percent\ Relative\  Error = \frac{\left |meas-pred \right |}{meas}\cdot 100$, where $meas$ is MagNet's Core Loss measurement and $pred$ is the model prediction.
 
