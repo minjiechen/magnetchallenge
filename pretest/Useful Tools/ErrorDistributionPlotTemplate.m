@@ -39,8 +39,8 @@ Material = '3C90';
 %Load Predictions Spreadsheet and Measured Spreadsheet
 % Then calculate error using absolute relative error
 
-pred = load(['.\validationdata\Result\pred_',Material,'.csv']);
-meas = load(['.\validationdata\',Material,'\Volumetric_Loss.csv']);
+pred = load(['.\Pretest Results\pred_',Material,'.csv']);
+meas = load(['.\Pretest Models\',Material,'\Volumetric_Loss.csv']);
 
 % Relative error is the metric of interest, using absolute values:
 error  = 100 * abs(meas - pred) ./ abs(meas);
