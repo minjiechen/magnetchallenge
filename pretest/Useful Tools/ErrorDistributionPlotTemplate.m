@@ -32,15 +32,15 @@ a = 170;
 gray = [a,a,a]/255;
 
 %Update the material variable!
-Material = 'N49';
+Material = '3C90';
 
 % Begin Loading Data:
 
 %Load Predictions Spreadsheet and Measured Spreadsheet
 % Then calculate error using absolute relative error
 
-pred = load(['.\validationdata\Result\pred_',Material,'.csv']);
-meas = load(['.\validationdata\',Material,'\Volumetric_Loss.csv']);
+pred = load(['.\Pretest Results\pred_',Material,'.csv']);
+meas = load(['.\Pretest Models\',Material,'\Volumetric_Loss.csv']);
 
 % Relative error is the metric of interest, using absolute values:
 error  = 100 * abs(meas - pred) ./ abs(meas);
@@ -50,7 +50,7 @@ error  = 100 * abs(meas - pred) ./ abs(meas);
 %error = load('ERRORPath');
 
 figure(20);
-histogram(error,"BinWidth",0.2,'FaceColor',blue,'FaceAlpha',1,'Normalization','probability'); hold on;
+histogram(error,"NumBins",50,'FaceColor',blue,'FaceAlpha',1,'Normalization','probability'); hold on;
 
 y1 = 0.09;
 y = linspace(0,y1,20);
@@ -72,7 +72,7 @@ y = linspace(0,y4,20);
 plot(max(abs(error))*ones(size(y)),y,'--','Color',red,'LineWidth',2);
 text(max(abs(error))-0.6,y4,['Max=',num2str(max(abs(error)),4),'\%'],'Color',red);
 
-xlabel('Relative Error of Sequence [\%]');
+xlabel('Relative Error of Core Loss [\%]');
 ylabel('Ratio of Data Points');
 %Set x and y limits, if needed
 %  xlim([0 19]);

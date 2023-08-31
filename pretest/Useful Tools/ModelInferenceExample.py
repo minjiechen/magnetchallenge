@@ -11,9 +11,9 @@ Material = "N49"
 
 #%% Load Dataset
 
-def load_dataset(in_file1="./validationdata/"+Material+"/B_waveform.csv", 
-                 in_file2="./validationdata/"+Material+"/Frequency.csv", 
-                 in_file3="./validationdata/"+Material+"/Temperature.csv"):
+def load_dataset(in_file1="./Pretest Models/"+Material+"/B_waveform.csv", 
+                 in_file2="./Pretest Models/"+Material+"/Frequency.csv", 
+                 in_file3="./Pretest Models/"+Material+"/Temperature.csv"):
     
     data_B = np.genfromtxt(in_file1, delimiter=',')
     data_F = np.genfromtxt(in_file2, delimiter=',')
@@ -24,7 +24,7 @@ def load_dataset(in_file1="./validationdata/"+Material+"/B_waveform.csv",
 #%% Post Processing
 
 def post_processing(data_B, data_F, data_T,
-                    norm_file="./validationdata/Model/Norm_"+Material+".pt"):
+                    norm_file="./Pretest Models/Norm_"+Material+".pt"):
     
     in_B = torch.from_numpy(data_B).float().view(-1, 1024, 1)
     in_F = torch.from_numpy(data_F).float().view(-1, 1)
@@ -192,7 +192,7 @@ def main():
           dim_feedforward_encoder=40,
           dim_feedforward_decoder=40,
           dim_feedforward_projecter=40).to(device)
-    state_dict = torch.load("./validationdata/Model/Model_"+Material+"_Transformer.sd")
+    state_dict = torch.load("./Pretest Models/Model_"+Material+"_Transformer.sd")
     net.load_state_dict(state_dict, strict=True)
     
     # Model Inference
@@ -211,7 +211,7 @@ def main():
             out_H = (outputs[:, :-1, :]*normH[1]+normH[0]).squeeze(2).cpu().numpy()
             
     loss = data_F * np.trapz(out_H, data_B[:,0::8], axis=1) 
-    with open("./validationdata/Result/pred_"+Material+".csv", "w") as f:
+    with open("./Pretest Results/pred_"+Material+".csv", "w") as f:
         np.savetxt(f, loss)
         f.close()
 
