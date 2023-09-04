@@ -8,7 +8,7 @@
 ========================================================
 ## **All 39 teams are accepted to the MagNet Challenge!!! We are collecting expert feedback on the concept papers and will be in touch with recommendations soon!**
 ========================================================
-## **MagNet Challenge 2023 November Preliminary Test** Detailed Instruction Here:
+## **MagNet Challenge 2023 November Preliminary Test** [Evaluation Rules](pretest/FinalEvaluationRules.pdf) Here:
 
 On November 1st, a preliminary test result is due to evaluate your already developed models for the 10 materials: 
 
@@ -16,12 +16,12 @@ On November 1st, a preliminary test result is due to evaluate your already devel
 
 - Step 2: Use this database to evaluate your already-trained models.
 
-- Step 3: Report your results following the provided [Template](PretestResultsPDF.pdf). Zip your Models and Results and send them to pelsmagnet@gmail.com.
+- Step 3: Report your results following the provided [Template](pretest/PretestResultsPDF.pdf). Zip your Models and Results and send them to pelsmagnet@gmail.com.
 
 We will use relative error to evaluate your models (the absolute error between the predicted and measured values).
 
 $Percent\ Relative\  Error = \frac{\left |meas-pred \right |}{meas}\cdot100$ \%, where $meas$ is MagNet's Core Loss measurement and $pred$ is the model prediction.
-
+=========================================================
 The purpose of the preliminary test is to get you familiar with the final testing process. The preliminary test results have nothing to do with the final competition results. 
 =========================================================
 
