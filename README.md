@@ -8,7 +8,7 @@
 ========================================================
 ## **All 39 teams are accepted to the MagNet Challenge!!! We are collecting expert feedback on the concept papers and will be in touch with recommendations soon!**
 ========================================================
-## **MagNet Challenge 2023 November Preliminary Test** [Evaluation Rules](pretest/FinalEvaluationRules.pdf) Here:
+## **MagNet Challenge 2023** [Evaluation Rules](pretest/FinalEvaluationRules.pdf) Here:
 
 On November 1st, a preliminary test result is due to evaluate your already developed models for the 10 materials: 
 
