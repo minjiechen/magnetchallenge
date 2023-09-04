@@ -22,9 +22,7 @@ We will use relative error to evaluate your models (the absolute error between t
 
 $Percent\ Relative\  Error = \frac{\left |meas-pred \right |}{meas}\cdot100$ \%, where $meas$ is MagNet's Core Loss measurement and $pred$ is the model prediction.
 
-=========================================================
 The purpose of the preliminary test is to get you familiar with the final testing process. The preliminary test results have nothing to do with the final competition results. 
-=========================================================
 
 ## MagNet Challenge Timeline
 
