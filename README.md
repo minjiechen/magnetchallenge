@@ -22,7 +22,7 @@ $Percent\ Relative\  Error = \frac{\left |meas-pred \right |}{meas}\cdot100$ \%,
 
 The purpose of the preliminary test is to get you familiar with the final testing process. The preliminary test results have nothing to do with the final competition results. 
 
-*** In the final test, we will provide a small or large dataset for training, and a small or large dataset for testing. In the final test, the training and testing data for the different materials may be offered in different ways to test the model's performance from different angles. ***
+*** In the final test, we will provide a small or large dataset for training, and a small or large dataset for testing. In the final test, the training and testing data for different materials may be offered in different ways to test the model's performance from different angles. ***
 
 ## MagNet Challenge Timeline
 
