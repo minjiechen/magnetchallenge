@@ -84,6 +84,8 @@ The judging committee will evaluate the results of each team with the following 
 ## Participating Teams (05-20-2023) 40 Teams from 18 Countries and Regions
 ## Denmark, USA, Brazil, China, India, Belgium, Spain, Singapore, Taiwan, Germany, Italy, South Korea, Austria, Nepal, Netherland, UK, Australia, Netherland
 ## All 39 Concept Papers have been Received !!!
+## $30,000 budget from IEEE PELS confirmed!
+## $10,000 gift from Google received!
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
 - Arizona State University, Tempe AZ, USA 🇺🇸
