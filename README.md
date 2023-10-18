@@ -35,16 +35,16 @@ The purpose of the preliminary test is to get you familiar with the final testin
 - 07-01-2023 Notification of Acceptance (all 39 teams accepted)
 - 08-01-2023 Expert Feedback on the Concept Proposal
 - Teams develop a semi/fully-automated software pipeline to process data and generate models for 10 materials
-- 11-01-2023 Preliminary Submission Due
+- 11-10-2023 Preliminary Submission Due
 - Teams use the previously developed software pipeline to process new data and generate models for 3 new materials
-- 12-24-2023 Final Submission Due
+- 12-31-2023 Final Submission Due
 - 03-01-2024 Winner Announcement and Presentation
 
 ## Evaluation Timeline
 
 - 06-15-2023 Evaluate the concept proposals and ensure all teams understand the competition rules.
-- 11-01-2023 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
-- 12-24-2023 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winners.
+- 11-10-2023 Evaluate the 10 models the teams developed for the 10 materials and provide feedback for improvements.
+- 12-31-2023 Evaluate the 3 new models the teams developed for the 3 new materials and announce the winners.
 
 ## Evaluation Criterias
 
