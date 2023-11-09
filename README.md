@@ -9,7 +9,7 @@
 ========================================================
 ## **MagNet Challenge 2023** [Evaluation Rules](pretest/FinalEvaluationRules.pdf) Here:
 
-On November 1st, a preliminary test result is due to evaluate your already developed models for the 10 materials: 
+On November 10th, a preliminary test result is due to evaluate your already developed models for the 10 materials: 
 
 - Step 1: Download the [MagNet Challenge Validation Data](https://www.dropbox.com/sh/4ppuzu7z4ky3m6l/AAApqXcxr_Fnr5x9f5qDr8j8a?dl=0) for the 10 existing materials each consisting of 5,000 randomly sampled data from the original database.
 
