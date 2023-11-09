@@ -1,5 +1,5 @@
 # MagNet Challenge 2023
-## IEEE PELS-Google-Princeton MagNet Challenge
+## IEEE PELS-Google-Enphase-Princeton MagNet Challenge
 <img src="img/mclogo.jpg" width="800">
 
 ## This site provides the latest information about the MagNet Challenge. 
@@ -86,6 +86,7 @@ The judging committee will evaluate the results of each team with the following 
 ## All 39 Concept Papers have been Received !!!
 ## $30,000 budget from IEEE PELS confirmed!
 ## $10,000 gift from Google received!
+## $10,000 gift from Enphase received!
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
 - Arizona State University, Tempe AZ, USA 🇺🇸
