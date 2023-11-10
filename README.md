@@ -5,7 +5,7 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 ========================================================
-## *** We have received many pre-submissions and are working on releasing the final test data. Please stay tuned. 
+## *** We have received many pre-submissions and are working on releasing the final test data. Please stay tuned. ***
 ========================================================
 ## *** Due to the upcoming ECCE 2023 travel and APEC 2024 deadlines, we will postpone the Preliminary Submission Date from 11-01-2023 to 11-10-2023, and the Final Submission Date from 12-24-2023 to 12-31-2023. ***
 ========================================================
