@@ -22,7 +22,7 @@ On December 31st, 2023 – Final submission:
 3)	A 5-page IEEE TPEL format document due as a PDF file. Please briefly explain the key concepts.
 4)	The authors listed on the 5-page report will be used as the final team member list.
 5)	Report the total number of model parameters, as well as your model size as a table in the document. These numbers will be confirmed during the code review process.
-6)	Full executable model due as a ZIP file for a potential code review with winning teams. 
+6)	Full executable model due as a ZIP file for a potential code review with winning teams. These models should be fully executable on a regular personal computer without internet access after installing necessary packages. 
 7)	Submit all the above required files to pelsmagnet@gmail.com.
 
 January to March 2024 – Model Performance Evaluation, Code Review, Final Winner Selection:
