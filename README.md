@@ -133,7 +133,7 @@ The judging committee will evaluate the results of each team with the following 
 - Seoul National University, Seoul, South Korea 🇰🇷
 - Silicon Austria Labs, Graz, Austria 🇦🇹 - [pretest] 
 - Southeast University Team 1, Nanjing, China 🇨🇳 - [pretest] 
-- Southeast University Team 2, Nanjing, China 🇨🇳
+- Southeast University Team 2, Nanjing, China 🇨🇳 - [pretest]
 - Tribhuvan University, Lalitpur, Nepal 🇳🇵 - [pretest] 
 - Tsinghua University, Beijing, China 🇨🇳 - [pretest] 
 - TU Delft, Delft, Netherland 🇳🇱 - [pretest] 
