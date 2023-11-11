@@ -27,7 +27,7 @@ On December 31st, 2023 – Final submission:
 
 January to March 2024 – Model Performance Evaluation, Code Review, Final Winner Selection:
 1)  We will first evaluate the CSV core loss testing results for the 5 materials.
-2)	10 to 15 teams with outstanding performance will be invited for a final code review with brief presentation. These code review meetings are open to all participating teams.
+2)	10 to 15 teams with outstanding performance will be invited for a final code review with brief presentation. These online code review meetings are open to all participating teams.
 3)	Evaluation criteria: high model accuracy; compact model size; good model readability.
 4)	The final winners will be selected by the judging committee after jointly considering all the judging factors.
 5)	All data, models, and results will be released to public, after the winners are selected.
