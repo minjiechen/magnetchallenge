@@ -9,7 +9,7 @@
 
 On November 10th, 2023 – Data released for final evaluation:
 
-1)	Download the new training data and testing data from the following link for the 5 additional materials: 
+1)	Download the new training data and testing data from the following link for 5 new materials similar or different from the previous 10 materials:
 [MagNet Challenge Final Test Data](https://www.dropbox.com/sh/q5w2ddol8y6bk0k/AABXKxv_aiLj8yXspeusJq4na?dl=0)
 2)	Train, tune, and refine your model or algorithm using the training data.
 3)	Predict the core losses for all the data points contained in the testing data for the 5 materials. For each material, the prediction results should be formatted into a CSV file with a single column of core loss values. Please make sure the index of these values is consistent with the testing data, so that the evaluation can be conducted correctly.
