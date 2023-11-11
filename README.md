@@ -7,9 +7,9 @@
 ========================================================
 ## *** We have received many pre-submissions and are working on releasing the final test data. Please stay tuned. ***
 ========================================================
-## *** Due to the upcoming ECCE 2023 travel and APEC 2024 deadlines, we will postpone the Preliminary Submission Date from 11-01-2023 to 11-10-2023, and the Final Submission Date from 12-24-2023 to 12-31-2023. ***
+## **MagNet Challenge 2023** [Final Evaluation Rules](pretest/FinalEvaluationRules.pdf) Here:
 ========================================================
-## **MagNet Challenge 2023** [Pretest Evaluation Rules](pretest/FinalEvaluationRules.pdf) Here:
+## **MagNet Challenge 2023** [Pretest Evaluation Rules](pretest/PreEvaluationRules.pdf) Here:
 
 On November 10th, a preliminary test result is due to evaluate your already developed models for the 10 materials: 
 
