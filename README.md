@@ -26,9 +26,10 @@ On December 31st, 2023 – Final submission:
 7)	Submit all the above required files to pelsmagnet@gmail.com.
 
 January to March 2024 – Model Performance Evaluation, Code Review, Final Winner Selection:
-1)	Teams with outstanding performance will be invited for a final code review.
-2)	Evaluation criteria: high model accuracy; compact model size; good model readability.
-3)	The final winners will be selected by the judging committee after jointly considering all the judging factors.
+1)  We will first evaluate the CSV core loss testing results for the 5 materials.
+2)	10 to 15 teams with outstanding performance will be invited for a final code review with presentation.
+3)	Evaluation criteria: high model accuracy; compact model size; good model readability.
+4)	The final winners will be selected by the judging committee after jointly considering all the judging factors.
 
 ========================================================
 ## **MagNet Challenge 2023** [Pretest Evaluation Rules](pretest/PreEvaluationRules.pdf) Here:
