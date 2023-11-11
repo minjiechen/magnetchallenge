@@ -18,7 +18,7 @@ On November 10th, 2023 – Data released for final evaluation:
 
 On December 31st, 2023 – Final submission:
 1)	Prediction results for the testing data are due as 5 separate CSV files for the 5 materials.
-2)	Package your model as an executable MATLAB/Python function as P=function(B,T,f). This function should be able to directly read the original {B,T,f} CSV files and produce the predicted power P as a CSV file with a single column. 
+2)	Package your best model as an executable MATLAB/Python function as P=function(B,T,f). This function should be able to directly read the original {B,T,f} CSV files and produce the predicted power P as a CSV file with a single column. 
 3)	A 5-page IEEE TPEL format document due as a PDF file. Please briefly explain the key concepts.
 4)	The authors listed on the 5-page report will be used as the final team member list.
 5)	Report the total number of model parameters, as well as your model size as a table in the document. These numbers will be confirmed during the code review process.
@@ -28,6 +28,7 @@ On December 31st, 2023 – Final submission:
 January to March 2024 – Model Performance Evaluation, Code Review, Final Winner Selection:
 1)	Teams with outstanding performance will be invited for a final code review.
 2)	Evaluation criteria: high model accuracy; compact model size; good model readability.
+3)	The final winners will be selected by the judging committee after jointly considering all the judging factors.
 
 ========================================================
 ## **MagNet Challenge 2023** [Pretest Evaluation Rules](pretest/PreEvaluationRules.pdf) Here:
