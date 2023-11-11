@@ -17,9 +17,10 @@ On November 10th, 2023 – Data released for final evaluation:
 On December 31st, 2023 – Final submission:
 1)	Prediction results for the testing data are due as 5 separate CSV files for the 5 materials. 
 2)	A 5-page IEEE TPEL format document due as a PDF file. Please briefly explain the key concepts.
-3)	Please summarize the number of material specific parameters, as well as your model size as a table in the document. 
-4)	Full executable model due as a ZIP file for a potential code review with winning teams. 
-5)	Submit all the above required files to pelsmagnet@gmail.com.
+3)	The authors listed on the 5-page report will be used as the final team member list.
+4)	Please summarize the number of material specific parameters, as well as your model size as a table in the document. 
+5)	Full executable model due as a ZIP file for a potential code review with winning teams. 
+6)	Submit all the above required files to pelsmagnet@gmail.com.
 
 January to March 2024 – Model Performance Evaluation, Code Review, Final Winner Selection:
 1)	Teams with outstanding performance will be invited for a final code review.
