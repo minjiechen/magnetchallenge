@@ -7,7 +7,24 @@
 ========================================================
 ## *** We have received many pre-submissions and are working on releasing the final test data. Please stay tuned. ***
 ========================================================
-## **MagNet Challenge 2023** [Final Evaluation Rules](pretest/FinalEvaluationRules.pdf) Here:
+## **MagNet Challenge 2023** [Final Evaluation Rules](finaltest/FinalEvaluationRules.pdf) Here:
+
+On November 10th, 2023 – Data released for final evaluation:
+
+1)	Download the new training data and testing data from the following link for the 5 additional materials: 
+[MagNet Challenge Final Test Data](https://www.dropbox.com/sh/q5w2ddol8y6bk0k/AABXKxv_aiLj8yXspeusJq4na?dl=0)
+2)	Train, tune, and refine your model or algorithm using the training data.
+3)	Predict the core losses for all the data points contained in the testing data for the 5 materials. For each material, the prediction results should be formatted into a CSV file with a single column of core loss values. Please make sure the index of these values is consistent with the testing data, so that the evaluation can be conducted correctly.
+
+On December 31st, 2023 – Final submission:
+1)	Prediction results for the testing data are due as 5 separate CSV files for the 5 materials. 
+2)	A 5-page IEEE TPEL format document due as a PDF file. Please briefly explain the key concepts. 
+3)	Full executable model due as a ZIP file for a potential code review with winning teams. 
+4)	Submit all the above required files to pelsmagnet@gmail.com.
+
+January to March 2024 – Model Performance Evaluation, Code Review, Final Winner Selection:
+1)	Teams with outstanding performance will be invited for a final code review. 
+
 ========================================================
 ## **MagNet Challenge 2023** [Pretest Evaluation Rules](pretest/PreEvaluationRules.pdf) Here:
 
