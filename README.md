@@ -5,8 +5,6 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 ========================================================
-## *** We have received many pre-submissions and are working on releasing the final test data. Please stay tuned. ***
-========================================================
 ## **MagNet Challenge 2023** [Final Evaluation Rules](finaltest/FinalEvaluationRules.pdf) Here:
 
 On November 10th, 2023 – Data released for final evaluation:
