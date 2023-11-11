@@ -108,45 +108,45 @@ The judging committee will evaluate the results of each team with the following 
 ## $10,000 gift from Enphase received!
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
-- Arizona State University, Tempe AZ, USA 🇺🇸
+- [received] Arizona State University, Tempe AZ, USA 🇺🇸
 - Cornell University Team 1, Ithaca, USA 🇺🇸
 - Cornell University Team 2, Ithaca, USA 🇺🇸
-- Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷
-- Fuzhou University, Fuzhou, China 🇨🇳 [received]
-- Hangzhou Dianzi University, Hangzhou, China 🇨🇳
-- Indian Institute of Science, Bangalore, India 🇮🇳
+- [received] Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷
+- [received] Fuzhou University, Fuzhou, China 🇨🇳 [received]
+- [received] Hangzhou Dianzi University, Hangzhou, China 🇨🇳
+- [received] Indian Institute of Science, Bangalore, India 🇮🇳
 - Jinan University, Guangzhou, China 🇨🇳
-- KU Leuven, Leuven, Belgium 🇧🇪
-- Mondragon University, Hernani, Spain 🇪🇸
-- Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
+- [received] KU Leuven, Leuven, Belgium 🇧🇪
+- [received] Mondragon University, Hernani, Spain 🇪🇸
+- [received] Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
 - Nanyang Technological University, Singapore 🇸🇬
 - National Taipei University of Technology, Taipei, Taiwan 🇹🇼
-- Northeastern University, Boston MA, USA 🇺🇸
-- Paderborn University, Paderborn, Germany 🇩🇪
-- Politecnico di Torino, Torino, Italy 🇮🇹
-- Princeton University, Princeton NJ, USA 🇺🇸 (not competing)
-- Purdue University, West Lafayette IN, USA 🇺🇸
+- [received] Northeastern University, Boston MA, USA 🇺🇸
+- [received] Paderborn University, Paderborn, Germany 🇩🇪
+- [received] Politecnico di Torino, Torino, Italy 🇮🇹
+- [received] Princeton University, Princeton NJ, USA 🇺🇸 (not competing)
+- [received] Purdue University, West Lafayette IN, USA 🇺🇸
 - Seoul National University, Seoul, South Korea 🇰🇷
-- Silicon Austria Labs, Graz, Austria 🇦🇹
-- Southeast University Team 1, Nanjing, China 🇨🇳
+- [received] Silicon Austria Labs, Graz, Austria 🇦🇹
+- [received] Southeast University Team 1, Nanjing, China 🇨🇳
 - Southeast University Team 2, Nanjing, China 🇨🇳
-- Tribhuvan University, Lalitpur, Nepal 🇳🇵
-- Tsinghua University, Beijing, China 🇨🇳
-- TU Delft, Delft, Netherland 🇳🇱
-- University of Bristol, Bristol, UK 🇬🇧
-- University of Colorado Boulder, Boulder CO, USA 🇺🇸
+- [received] Tribhuvan University, Lalitpur, Nepal 🇳🇵
+- [received] Tsinghua University, Beijing, China 🇨🇳
+- [received] TU Delft, Delft, Netherland 🇳🇱
+- [received] University of Bristol, Bristol, UK 🇬🇧
+- [received] University of Colorado Boulder, Boulder CO, USA 🇺🇸
 - University of Kassel, Kassel, Germany 🇩🇪
 - University of Manchester, Manchester, UK 🇬🇧
-- University of Nottingham, Nottingham, UK 🇬🇧
-- University of Sydney, Sydney, Australia 🇦🇺 [received]
-- University of Tennessee, Knoxville, USA 🇺🇸
-- University of Twente Team 1, Enschede, Netherland 🇳🇱
+- [received] University of Nottingham, Nottingham, UK 🇬🇧
+- [received] University of Sydney, Sydney, Australia 🇦🇺 
+- [received] University of Tennessee, Knoxville, USA 🇺🇸
+- [received] University of Twente Team 1, Enschede, Netherland 🇳🇱
 - University of Twente Team 2, Enschede, Netherland 🇳🇱
 - University of Wisconsin-Madison, Madison MI, USA 🇺🇸
 - Universidad Politécnica de Madrid, Madrid, Spain 🇪🇸
-- Xi'an Jiaotong University, Xi'an, China 🇨🇳
-- Zhejiang University, Hangzhou, China 🇨🇳
-- Zhejiang University-UIUC, Hangzhou, China 🇨🇳
+- [received] Xi'an Jiaotong University, Xi'an, China 🇨🇳
+- [received] Zhejiang University, Hangzhou, China 🇨🇳
+- [received] Zhejiang University-UIUC, Hangzhou, China 🇨🇳
 
 ## Related Websitess
 
