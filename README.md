@@ -156,7 +156,7 @@ The judging committee will evaluate the results of each team with the following 
 - Zhejiang University, Hangzhou, China 🇨🇳 - [pretest] 
 - Zhejiang University-UIUC, Hangzhou, China 🇨🇳 - [pretest] 
 
-## Related Websitess
+## Related Websites
 
 - [MagNet Challenge Homepage](https://minjiechen.github.io/magnetchallenge/)
 - [MagNet Challenge GitHub](https://github.com/minjiechen/magnetchallenge)
@@ -165,6 +165,12 @@ The judging committee will evaluate the results of each team with the following 
 - [Princeton Power Electronics Research Lab](https://www.princeton.edu/~minjie/magnet.html)
 - [Dartmouth PMIC](https://pmic.engineering.dartmouth.edu/)
 - [ETHz PES](https://pes.ee.ethz.ch/)
+
+## MagNet Project Reference Papers
+
+- D. Serrano et al., "Why MagNet: Quantifying the Complexity of Modeling Power Magnetic Material Characteristics," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3291084. [Paper](https://ieeexplore.ieee.org/document/10169101)
+- H. Li et al., "How MagNet: Machine Learning Framework for Modeling Power Magnetic Material Characteristics," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3309232. [Paper](https://ieeexplore.ieee.org/document/10232863)
+- H. Li, D. Serrano, S. Wang and M. Chen, "MagNet-AI: Neural Network as Datasheet for Magnetics Modeling and Material Recommendation," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2023.3309233. [Paper](https://ieeexplore.ieee.org/document/10232911)
 
 ## Organizers
 <img src="img/magnetteam.jpg" width="800">
