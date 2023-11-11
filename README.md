@@ -7,6 +7,8 @@
 ========================================================
 ## **MagNet Challenge 2023** [Final Evaluation Rules](finaltest/FinalEvaluationRules.pdf) Here:
 
+On November 10th, 2023 - We have received 27 entries for the pre-test. If your team has submitted a pre-test report but was not labeled as [pretest] below, please let us know.
+
 On November 10th, 2023 – Data released for final evaluation:
 
 1)	Download the new training data and testing data from the following link for 5 new materials similar or different from the previous 10 materials:
@@ -15,11 +17,11 @@ On November 10th, 2023 – Data released for final evaluation:
 3)	Predict the core losses for all the data points contained in the testing data for the 5 materials. For each material, the prediction results should be formatted into a CSV file with a single column of core loss values. Please make sure the index of these values is consistent with the testing data, so that the evaluation can be conducted correctly.
 
 On December 31st, 2023 – Final submission:
-1)	Prediction results for the testing data are due as 5 separate CSV files for the 5 materials. 
-2)	A 5-page IEEE TPEL format document due as a PDF file. Please briefly explain the key concepts.
-3)	The authors listed on the 5-page report will be used as the final team member list.
-4)	Please report the total number of model parameters, as well as your model size as a table in the document. These numbers will be confirmed during the code review process.
-5)	Please package your model as an executable MATLAB/Python function as P=function(B,T,f). This function should be able to directly read the .csv files and produce the predicted power as .csv files. 
+1)	Prediction results for the testing data are due as 5 separate CSV files for the 5 materials.
+2)	Package your model as an executable MATLAB/Python function as P=function(B,T,f). This function should be able to directly read the original {B,T,f} CSV files and produce the predicted power as a CSV file. 
+3)	A 5-page IEEE TPEL format document due as a PDF file. Please briefly explain the key concepts.
+4)	The authors listed on the 5-page report will be used as the final team member list.
+5)	Report the total number of model parameters, as well as your model size as a table in the document. These numbers will be confirmed during the code review process.
 6)	Full executable model due as a ZIP file for a potential code review with winning teams. 
 7)	Submit all the above required files to pelsmagnet@gmail.com.
 
@@ -110,45 +112,45 @@ The judging committee will evaluate the results of each team with the following 
 ## $10,000 gift from Enphase received!
 
 - Aalborg University, Aalborg, Denmark 🇩🇰
-- [received] Arizona State University, Tempe AZ, USA 🇺🇸
+- Arizona State University, Tempe AZ, USA 🇺🇸 - [pretest] 
 - Cornell University Team 1, Ithaca, USA 🇺🇸
 - Cornell University Team 2, Ithaca, USA 🇺🇸
-- [received] Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷
-- [received] Fuzhou University, Fuzhou, China 🇨🇳 [received]
-- [received] Hangzhou Dianzi University, Hangzhou, China 🇨🇳
-- [received] Indian Institute of Science, Bangalore, India 🇮🇳
+- Federal University of Santa Catarina, Florianopolis, Brazil 🇧🇷 - [pretest] 
+- Fuzhou University, Fuzhou, China 🇨🇳 - [pretest]
+- Hangzhou Dianzi University, Hangzhou, China 🇨🇳 - [pretest] 
+- Indian Institute of Science, Bangalore, India 🇮🇳 - [pretest] 
 - Jinan University, Guangzhou, China 🇨🇳
-- [received] KU Leuven, Leuven, Belgium 🇧🇪
-- [received] Mondragon University, Hernani, Spain 🇪🇸
-- [received] Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
+- KU Leuven, Leuven, Belgium 🇧🇪 - [pretest] 
+- Mondragon University, Hernani, Spain 🇪🇸 - [pretest] 
+- Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳 - [pretest] 
 - Nanyang Technological University, Singapore 🇸🇬
 - National Taipei University of Technology, Taipei, Taiwan 🇹🇼
-- [received] Northeastern University, Boston MA, USA 🇺🇸
-- [received] Paderborn University, Paderborn, Germany 🇩🇪
-- [received] Politecnico di Torino, Torino, Italy 🇮🇹
-- [received] Princeton University, Princeton NJ, USA 🇺🇸 (not competing)
-- [received] Purdue University, West Lafayette IN, USA 🇺🇸
+- Northeastern University, Boston MA, USA 🇺🇸 - [pretest] 
+- Paderborn University, Paderborn, Germany 🇩🇪 - [pretest] 
+- Politecnico di Torino, Torino, Italy 🇮🇹 - [pretest] 
+- Princeton University, Princeton NJ, USA 🇺🇸 (not competing)
+- Purdue University, West Lafayette IN, USA 🇺🇸 - [pretest] 
 - Seoul National University, Seoul, South Korea 🇰🇷
-- [received] Silicon Austria Labs, Graz, Austria 🇦🇹
-- [received] Southeast University Team 1, Nanjing, China 🇨🇳
+- Silicon Austria Labs, Graz, Austria 🇦🇹 - [pretest] 
+- Southeast University Team 1, Nanjing, China 🇨🇳 - [pretest] 
 - Southeast University Team 2, Nanjing, China 🇨🇳
-- [received] Tribhuvan University, Lalitpur, Nepal 🇳🇵
-- [received] Tsinghua University, Beijing, China 🇨🇳
-- [received] TU Delft, Delft, Netherland 🇳🇱
-- [received] University of Bristol, Bristol, UK 🇬🇧
-- [received] University of Colorado Boulder, Boulder CO, USA 🇺🇸
+- Tribhuvan University, Lalitpur, Nepal 🇳🇵 - [pretest] 
+- Tsinghua University, Beijing, China 🇨🇳 - [pretest] 
+- TU Delft, Delft, Netherland 🇳🇱 - [pretest] 
+- University of Bristol, Bristol, UK 🇬🇧 - [pretest] 
+- University of Colorado Boulder, Boulder CO, USA 🇺🇸 - [pretest] 
 - University of Kassel, Kassel, Germany 🇩🇪
 - University of Manchester, Manchester, UK 🇬🇧
-- [received] University of Nottingham, Nottingham, UK 🇬🇧
-- [received] University of Sydney, Sydney, Australia 🇦🇺 
-- [received] University of Tennessee, Knoxville, USA 🇺🇸
-- [received] University of Twente Team 1, Enschede, Netherland 🇳🇱
+- University of Nottingham, Nottingham, UK 🇬🇧 - [pretest] 
+- University of Sydney, Sydney, Australia 🇦🇺 - [pretest] 
+- University of Tennessee, Knoxville, USA 🇺🇸 - [pretest] 
+- University of Twente Team 1, Enschede, Netherland 🇳🇱 - [pretest] 
 - University of Twente Team 2, Enschede, Netherland 🇳🇱
 - University of Wisconsin-Madison, Madison MI, USA 🇺🇸
 - Universidad Politécnica de Madrid, Madrid, Spain 🇪🇸
-- [received] Xi'an Jiaotong University, Xi'an, China 🇨🇳
-- [received] Zhejiang University, Hangzhou, China 🇨🇳
-- [received] Zhejiang University-UIUC, Hangzhou, China 🇨🇳
+- Xi'an Jiaotong University, Xi'an, China 🇨🇳 - [pretest] 
+- Zhejiang University, Hangzhou, China 🇨🇳 - [pretest] 
+- Zhejiang University-UIUC, Hangzhou, China 🇨🇳 - [pretest] 
 
 ## Related Websitess
 
