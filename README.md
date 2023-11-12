@@ -32,7 +32,9 @@ January to March 2024 – Model Performance Evaluation, Code Review, Final Winne
 4)	The final winners will be selected by the judging committee after jointly considering all the judging factors.
 5)	All data, models, and results will be released to public, after the winners are selected.
 6)	Our ultimate goal is to combine the best models from this competition to develop a "standard" datasheet model for each of the 10+5 materials.
+
 ========================================================
+Self-reported pre-test results from 24 teams with correctly formatted results.
 
 | Rank | Team      | 3C90    | 3C94    | 3E6     | 3F4     | 77      | 78      | N27      | N30     | N49     | N87      | Average |
 | ---- | --------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- | ------- | ------- | -------- | ------- |
