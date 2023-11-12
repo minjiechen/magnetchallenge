@@ -34,7 +34,7 @@ January to March 2024 – Model Performance Evaluation, Code Review, Final Winne
 6)	Our ultimate goal is to combine the best models from this competition to develop a "standard" datasheet model for each of the 10+5 materials.
 
 ========================================================
-## **MagNet Challenge 2023** [Pretest Evaluation Rules](pretest/PreEvaluationRules.pdf) Here:
+## [Past] **MagNet Challenge 2023** [Pretest Evaluation Rules](pretest/PreEvaluationRules.pdf) Here:
 
 On November 10th, a preliminary test result is due to evaluate your already developed models for the 10 materials: 
 
