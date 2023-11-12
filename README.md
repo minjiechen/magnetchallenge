@@ -31,7 +31,7 @@ January to March 2024 – Model Performance Evaluation, Code Review, Final Winne
 3)	Evaluation criteria: high model accuracy; compact model size; good model readability.
 4)	The final winners will be selected by the judging committee after jointly considering all the judging factors.
 5)	All data, models, and results will be released to public, after the winners are selected.
-6)	Our ultimate goal is to combine the best models from this competition to develop a "standard" datasheet model for each of the 15 materials.
+6)	Our ultimate goal is to combine the best models from this competition to develop a "standard" datasheet model for each of the 10+5 materials.
 
 ========================================================
 ## **MagNet Challenge 2023** [Pretest Evaluation Rules](pretest/PreEvaluationRules.pdf) Here:
