@@ -35,7 +35,7 @@ January to March 2024 – Model Performance Evaluation, Code Review, Final Winne
 
 ========================================================
 
-## Self-reported pre-test results from 24 teams ranked based on average error.
+## Self-reported pre-test results from 24 teams ranked based on 95-Prct-Error.
 
 | Rank | Team      | 3C90    | 3C94    | 3E6     | 3F4     | 77      | 78      | N27      | N30     | N49     | N87      | Average |
 | ---- | --------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- | ------- | ------- | -------- | ------- |
