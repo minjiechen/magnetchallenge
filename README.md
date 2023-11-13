@@ -100,7 +100,7 @@ The purpose of the preliminary test is to get you familiar with the final testin
 - 11-10-2023 Preliminary Submission Due (postponed from 11-01-2023)
 - Teams use the previously developed software pipeline to process new data and generate models for 3 new materials
 - 12-31-2023 Final Submission Due (postponed from 12-24-2023)
-- 03-01-2024 Winner Announcement and Presentation
+- 02-29-2024 APEC 2024 - Winner Announcement and Presentation
 
 ## Evaluation Timeline
 
