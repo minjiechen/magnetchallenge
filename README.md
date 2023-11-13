@@ -33,7 +33,7 @@ January to March 2024 – Model Performance Evaluation, Code Review, Final Winne
 5)	All data, models, and results will be released to public, after the winners are selected.
 6)	Our ultimate goal is to combine the best models from this competition to develop a "standard" datasheet model for each of the 10+5 materials.
 
-Criteria for code review: We hope the teams can convince us the developed method can "automatically" or "semi-automatically" produce an accurate and compact model for a new material without too much human interaction, so that we can quickly/automatically reproduce models for a large amount of new materials. Hopefully the winning method can become a standard way of training data-driven models for power magnetics.
+Criteria for code review: We hope the teams can convince us the developed method can "automatically" or "semi-automatically" produce an accurate and compact model for a new material without too much human interaction, so that we can quickly/automatically reproduce models for a large amount of new materials. Ultimately, the winning method can become a standard way of training data-driven models for power magnetics, after a community effort of improving it.
 
 ========================================================
 
