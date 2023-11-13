@@ -61,9 +61,10 @@ January to March 2024 – Model Performance Evaluation, Code Review, Final Winne
 | 20   | ZJU       | 25.50%  | 13.97%  | 60.47%  | 13.00%  | 19.90%  | 13.94%  | 12.48%   | 5.02%   | 19.23%  | 26.56%   | 21.01%  |
 | 21   | Mondragon | 29.26%  | 24.38%  | 22.32%  | 28.58%  | 29.60%  | 30.43%  | 30.27%   | 21.29%  | 36.36%  | 27.83%   | 28.03%  |
 | 22   | Purdue    | 38.74%  | 29.91%  | 29.69%  | 53.67%  | 35.16%  | 49.64%  | 30.83%   | 33.33%  | 39.70%  | 30.73%   | 37.14%  |
-| 23   | SAL       | 26.28%  | 19.17%  | 4.08%   | 34.94%  | 15.06%  | 20.07%  | 20.07%   | 7.47%   | 21.67%  | 1861.12% | 202.99% |
-| 24   | Utwente   | 968.79% | 436.58% | 313.66% | 141.77% | 290.70% | 332.79% | 1431.70% | 360.66% | 110.12% | 506.80%  | 489.36% |
-|      | Average   | 52.66%  | 28.59%  | 22.43%  | 22.26%  | 23.16%  | 26.20%  | 70.64%   | 23.12%  | 21.50%  | 108.78%  | 39.93%  |
+| 23   | NTUT      | 48.58%  | 46.61%  | 23.99%  | 112.10% | 49.45%  | 49.45%  | 41.13%   | 19.58%  | 173.50% | 32.91%   | 59.73%  |
+| 24   | SAL       | 26.28%  | 19.17%  | 4.08%   | 34.94%  | 15.06%  | 20.07%  | 20.07%   | 7.47%   | 21.67%  | 1861.12% | 202.99% |
+| 25   | Utwente   | 968.79% | 436.58% | 313.66% | 141.77% | 290.70% | 332.79% | 1431.70% | 360.66% | 110.12% | 506.80%  | 489.36% |
+|      | Average   | 52.50%  | 29.31%  | 22.49%  | 25.86%  | 24.21%  | 27.13%  | 69.46%   | 22.97%  | 27.58%  | 105.75%  | 40.73%  |
 
 ========================================================
 ## [Past] **MagNet Challenge 2023** [Pretest Evaluation Rules](pretest/PreEvaluationRules.pdf) Here:
@@ -160,7 +161,7 @@ The judging committee will evaluate the results of each team with the following 
 - Mondragon University, Hernani, Spain 🇪🇸 - [pretest] 
 - Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳 - [pretest] 
 - Nanyang Technological University, Singapore 🇸🇬
-- National Taipei University of Technology, Taipei, Taiwan 🇹🇼
+- National Taipei University of Technology, Taipei, Taiwan 🇹🇼 - [pretest]
 - Northeastern University, Boston MA, USA 🇺🇸 - [pretest] 
 - Paderborn University, Paderborn, Germany 🇩🇪 - [pretest] 
 - Politecnico di Torino, Torino, Italy 🇮🇹 - [pretest] 
