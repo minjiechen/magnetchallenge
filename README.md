@@ -5,7 +5,7 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 ========================================================
-## Download the [Final Submission Template](finaltest/TeamName.zip) Here ()
+## Download the [Final Submission Template](finaltest/TeamName.zip) Here (finaltest/TeamName.zip)
 ## **MagNet Challenge 2023** [Final Evaluation Rules](finaltest/FinalEvaluationRules.pdf) Here:
 
 On November 10th, 2023 - We have received 27 entries for the pre-test. If your team has submitted a pre-test report but was not labeled as [pretest] below, please let us know. Feel free to submit the results to conferences and journals, or seek IP protection. If you used MagNet data, please acknowledge the MagNet project by citing the papers listed at the end of this page.
