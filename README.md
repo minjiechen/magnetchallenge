@@ -8,7 +8,7 @@
 ## **Download the [Final Submission Template](finaltest/TeamName.zip) Here (finaltest/TeamName.zip)
 ========================================================
 
-## **MagNet Challenge 2023** Office Hour
+## **MagNet Challenge 2023** Office Hour [Registration Link](https://princeton.zoom.us/meeting/register/tJEtd-murTwvHNJZCozxIhamCtR5YX4dB_SV#/registration)
 - 11-30-2023 MagNet Challenge Office Hour #1 [Video](https://www.youtube.com/embed/BiYQNRP57yQ?si=Gc0Oh0SuBxlsI39h) [PDF](docs/officehour-1.pdf) 
 
 ## **MagNet Challenge 2023** [Final Evaluation Rules](finaltest/FinalEvaluationRules.pdf) Here:
