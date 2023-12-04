@@ -24,7 +24,7 @@ On November 10th, 2023 – Data released for final evaluation:
 
 On December 31st, 2023 – Final submission:
 1)	Prediction results for the testing data are due as 5 separate CSV files for the 5 materials.
-2)	For each material, package your best model as an executable MATLAB/Python function as P=function(B,T,f). This function should be able to directly read the original (B,T,f) CSV files and produce the predicted power P as a CSV file with a single column. For initial evaluation, you don't need to show how these models were trained/created but only show us the completed models. For final code-evaluation and winner selection, we may ask you to demonstrate how these models are trained/created.
+2)	For each material, package your best model as an executable MATLAB/Python function as P=function(B,T,f). This function should be able to directly read the original (B,T,f) CSV files and produce the predicted power P as a CSV file with a single column. For initial evaluation, you don't need to show how these models were trained/created but only show us the completed models. For final code-evaluation and winner selection, we may ask you to demonstrate how these models were trained/created.
 3)	A 5-page IEEE TPEL format document due as a PDF file. Please briefly explain the key concepts.
 4)	The authors listed on the 5-page report will be used as the final team member list.
 5)	Report the total number of model parameters, as well as your model size as a table in the document. These numbers will be confirmed during the code review process.
