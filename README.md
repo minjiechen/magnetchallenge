@@ -9,26 +9,26 @@
 ========================================================
 ## **We have received the final submission from the following teams. If your team have submitted your results but is not listed here, please let us know immediately. 
 
-Fuzhou University, Fuzhou, China 🇨🇳
-Hangzhou Dianzi University, Hangzhou, China 🇨🇳
-KU Leuven, Leuven, Belgium 🇧🇪
-Mondragon University, Hernani, Spain 🇪🇸
-Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
-Nanyang Technological University, Singapore 🇸🇬
-National Taipei University of Technology, Taipei, Taiwan 🇹🇼 
-Paderborn University, Paderborn, Germany 🇩🇪 
-Politecnico di Torino, Torino, Italy 🇮🇹
-Silicon Austria Labs, Graz, Austria 🇦🇹
-Southeast University Team 1, Nanjing, China 🇨🇳
-Southeast University Team 2, Nanjing, China 🇨🇳
-Tribhuvan University, Lalitpur, Nepal 🇳🇵
-Tsinghua University, Beijing, China 🇨🇳
-TU Delft, Delft, Netherland 🇳🇱
-University of Bristol, Bristol, UK 🇬🇧
-University of Colorado Boulder, Boulder CO, USA 🇺🇸
-University of Sydney, Sydney, Australia 🇦🇺
-University of Tennessee, Knoxville, USA 🇺🇸
-Zhejiang University-UIUC, Hangzhou, China 🇨🇳
+- Fuzhou University, Fuzhou, China 🇨🇳
+- Hangzhou Dianzi University, Hangzhou, China 🇨🇳
+- KU Leuven, Leuven, Belgium 🇧🇪
+- Mondragon University, Hernani, Spain 🇪🇸
+- Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
+- Nanyang Technological University, Singapore 🇸🇬
+- National Taipei University of Technology, Taipei, Taiwan 🇹🇼 
+- Paderborn University, Paderborn, Germany 🇩🇪 
+- Politecnico di Torino, Torino, Italy 🇮🇹
+- Silicon Austria Labs, Graz, Austria 🇦🇹
+- Southeast University Team 1, Nanjing, China 🇨🇳
+- Southeast University Team 2, Nanjing, China 🇨🇳
+- Tribhuvan University, Lalitpur, Nepal 🇳🇵
+- Tsinghua University, Beijing, China 🇨🇳
+- TU Delft, Delft, Netherland 🇳🇱
+- University of Bristol, Bristol, UK 🇬🇧
+- University of Colorado Boulder, Boulder CO, USA 🇺🇸
+- University of Sydney, Sydney, Australia 🇦🇺
+- University of Tennessee, Knoxville, USA 🇺🇸
+- Zhejiang University-UIUC, Hangzhou, China 🇨🇳
 
 ## **MagNet Challenge 2023** Office Hour [Registration Link](https://princeton.zoom.us/meeting/register/tJEtd-murTwvHNJZCozxIhamCtR5YX4dB_SV#/registration)
 - 11-30-2023 MagNet Challenge Office Hour #1 [Video](https://www.youtube.com/watch?v=BiYQNRP57yQ&t=849s) [PDF](docs/officehour-1.pdf) 
