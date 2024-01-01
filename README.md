@@ -9,6 +9,7 @@
 ========================================================
 ## **We have received the final submission from the following teams. If your team have submitted your results but is not listed here, please let us know immediately. 
 
+- Arizona State University, Tempe AZ, USA 🇺🇸
 - Fuzhou University, Fuzhou, China 🇨🇳
 - Hangzhou Dianzi University, Hangzhou, China 🇨🇳
 - KU Leuven, Leuven, Belgium 🇧🇪
@@ -28,6 +29,7 @@
 - University of Colorado Boulder, Boulder CO, USA 🇺🇸
 - University of Sydney, Sydney, Australia 🇦🇺
 - University of Tennessee, Knoxville, USA 🇺🇸
+- Xi'an Jiaotong University, Xi'an, China 🇨🇳
 - Zhejiang University-UIUC, Hangzhou, China 🇨🇳
 
 ## **MagNet Challenge 2023** Office Hour [Registration Link](https://princeton.zoom.us/meeting/register/tJEtd-murTwvHNJZCozxIhamCtR5YX4dB_SV#/registration)
