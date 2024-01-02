@@ -27,6 +27,7 @@
 - TU Delft, Delft, Netherland 🇳🇱
 - University of Bristol, Bristol, UK 🇬🇧
 - University of Colorado Boulder, Boulder CO, USA 🇺🇸
+- University of Manchester, Manchester, UK 🇬🇧
 - University of Sydney, Sydney, Australia 🇦🇺
 - University of Tennessee, Knoxville, USA 🇺🇸
 - Xi'an Jiaotong University, Xi'an, China 🇨🇳
