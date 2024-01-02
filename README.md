@@ -12,6 +12,7 @@
 - Arizona State University, Tempe AZ, USA 🇺🇸
 - Fuzhou University, Fuzhou, China 🇨🇳
 - Hangzhou Dianzi University, Hangzhou, China 🇨🇳
+- Indian Institute of Science, Bangalore, India 🇮🇳
 - KU Leuven, Leuven, Belgium 🇧🇪
 - Mondragon University, Hernani, Spain 🇪🇸
 - Nanjing University of Posts and Telecom., Nanjing, China 🇨🇳
