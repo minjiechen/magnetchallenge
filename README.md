@@ -5,7 +5,7 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 ========================================================
-## Preliminary Evaluation Results of the Final Submission
+## Preliminary Evaluation Results for the Final Submission
 
 |        | Material A | Material A | Material B | Material B | Material C | Material C | Material D | Material D | Material E | Material E |
 | ------ | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
