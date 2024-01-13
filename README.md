@@ -7,6 +7,8 @@
 ========================================================
 ## Download the [Final Evaluation Kit](finaltest/EvaluationKit.zip) for Self Evaluation
 ## Preliminary Evaluation Results for the Final Submission
+- Model Error is evaluated as the average absolute 95th percentile error of the core loss prediction.
+- Model Size is evaluated as the number of parameters that the model needs to remember to predict the core loss of each material.
 
 |        | Material A | Material A | Material B | Material B | Material C | Material C | Material D | Material D | Material E | Material E |
 | ------ | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
