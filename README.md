@@ -10,9 +10,9 @@
 - Model Error is evaluated as the average absolute 95th percentile error of the core loss prediction.
 - Model Size is evaluated as the number of parameters that the model needs to remember to predict the core loss of each material.
 - Let us know if you find any discrepancy.
-- Session 1 (Jan 17) Teams (8 slots): 
-- Session 2 (Jan 18) Teams (8 slots): ZJU-UIUC
-- Session 3 (Jan 19) Teams (8 slots): KU Leuven
+- Session #1 (Jan 17) Teams (8 slots): 
+- Session #2 (Jan 18) Teams (8 slots): ZJU-UIUC
+- Session #3 (Jan 19) Teams (8 slots): KU Leuven
 
 |        | Material A | Material A | Material B | Material B | Material C | Material C | Material D | Material D | Material E | Material E |
 | ------ | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
