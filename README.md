@@ -5,7 +5,7 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 ========================================================
-## Download the [Final Evaluation Kit](finaltest/EvaluationKit.zip) for Self Evaluation
+## **Download the [Final Evaluation Kit](finaltest/EvaluationKit.zip) for Self Evaluation
 ## Register for the [Code Review Town Hall Meeting](https://princeton.zoom.us/meeting/register/tJYudOuorT0tGNZ5nvm-JG6cbjtaJtx1ZFbO), please email us your preferred slot. All teams are welcome to present, listen, and discuss. Since we were able to execute most codes, we will not host individual code review meetings. 
 - Session #1 (Jan 17, Wed) Teams (8 slots): SAL, Tribhuvan, Bristol
 - Session #2 (Jan 18, Thu) Teams (8 slots): ZJU-UIUC, Tsinghua, NTUT, Mondragon, Paderborn
