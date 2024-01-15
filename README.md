@@ -13,7 +13,7 @@
 ## Register for the [Code Review Town Hall Meeting](https://princeton.zoom.us/meeting/register/tJYudOuorT0tGNZ5nvm-JG6cbjtaJtx1ZFbO), please email us your preferred slot. All teams are welcome to present, listen, and discuss. Since we were able to execute most codes, we will not host individual code review meetings. 
 - Session #1 (Jan 17, Wed) Teams (8 slots): SAL
 - Session #2 (Jan 18, Thu) Teams (8 slots): ZJU-UIUC, Tsinghua, NTUT, Mondragon
-- Session #3 (Jan 19, Fri) Teams (8 slots): KU Leuven, Sydney
+- Session #3 (Jan 19, Fri) Teams (8 slots): KU Leuven, Sydney, SEU-WX
 
 |        | Material A | Material A | Material B | Material B | Material C | Material C | Material D | Material D | Material E | Material E |
 | ------ | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
