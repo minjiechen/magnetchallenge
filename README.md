@@ -8,7 +8,7 @@
 ## **Download the [Final Evaluation Kit](finaltest/EvaluationKit.zip) for Self Evaluation of Model Accuracy
 ## Register for the [Code Review Town Hall Meeting](https://princeton.zoom.us/meeting/register/tJYudOuorT0tGNZ5nvm-JG6cbjtaJtx1ZFbO), please email us your preferred slot. All teams are welcome to present, listen, and discuss. Since we were able to execute most codes, we will not host individual code review meetings. 
 - Session #1 (Jan 17, Wed) Teams (8 slots): SAL, Tribhuvan, Bristol
-- Session #2 (Jan 18, Thu) Teams (8 slots): ZJU-UIUC, Paderborn, Tsinghua, NTUT, Mondragon, SEU-MC, HDU
+- Session #2 (Jan 18, Thu) Teams (8 slots): ZJU-UIUC, Paderborn, Tsinghua, NTUT, Mondragon, SEU-MC, HDU, CU-Boulder
 - Session #3 (Jan 19, Fri) Teams (8 slots): KU Leuven, Sydney, SEU-WX, PoliTO, UTK, Fuzhou, TUDelft, IISc
 ## Preliminary Evaluation Results for the Final Submission
 - Model Error is evaluated as the average absolute 95th percentile error of the core loss prediction.
