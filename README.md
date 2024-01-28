@@ -5,6 +5,9 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 ========================================================
+We will host a MagNet Challenge Award Ceremony on Wednesday Feb 28, 4:30pm-5:30pm PCT during APEC 2024. The location is Hyatt Regency Ballroom DEF. We look forward to seeing many of you there!!!
+
+========================================================
 ## **Download the [Final Evaluation Kit](finaltest/EvaluationKit.zip) for Self Evaluation of Model Accuracy
 ## Register for the [Code Review Town Hall Meeting](https://princeton.zoom.us/meeting/register/tJYudOuorT0tGNZ5nvm-JG6cbjtaJtx1ZFbO), please email us your preferred slot. All teams are welcome to present, listen, and discuss. Since we were able to execute most codes, we will not host individual code review meetings. 
 - Session #1 (Jan 17, Wed) Teams (8 slots): SAL, Tribhuvan, Bristol
