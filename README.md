@@ -5,7 +5,7 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 ==================== APEC Ceremony =====================
-## **We will host a MagNet Challenge Award Ceremony on Wednesday Feb 28, 4:30pm-5:30pm PCT during [APEC 2024](https://apec-conf.org/) in Long Beach, California at Hyatt Regency Ballroom DEF. We look forward to seeing many of you there (and on Zoom) to celebrate what we have done and what we plan to do in the future!**
+## **We will host a MagNet Challenge Award Ceremony on Wednesday Feb 28, 4:30pm-5:30pm PCT during [APEC 2024](https://apec-conf.org/) in Long Beach, California at Hyatt [Regency Ballroom DEF](https://apec-conf.org/special-events/pels-2024) . We look forward to seeing many of you there (and on Zoom) to celebrate what we have done and what we plan to do in the future!**
 <img src="img/apeclogo.jpg" width="800">
 
 ========================================================
