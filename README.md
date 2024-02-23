@@ -8,6 +8,17 @@
 ## **We will host a MagNet Challenge Award Ceremony on Wednesday Feb 28, 4:30pm-5:30pm PCT during [APEC 2024](https://apec-conf.org/) in Long Beach, California at [Hyatt Regency Ballroom DEF](https://apec-conf.org/special-events/pels-2024) . We look forward to seeing many of you there (and on Zoom) to celebrate what we have done and what we plan to do in the future!**
 <img src="img/apeclogo.jpg" width="800">
 
+Here are a few events related to the MagNet Challenge that you may pay attention to at APEC:
+
+- Saturday 2/24: Magnetics Workshop. Stop at Haoran and Shukai's poster to share about what we have learnt from MagNet Challenge 2023: https://www.psma.com/technical-forums/magnetics/workshop.
+- Tuesday 2/27: PELS TC10 Meeting, 11:00am-12:30pm PST, Hyatt Regency Hotel, Seaview A. We will discuss and plan the logistics for MagNet Challenge 2024. Join this event and share your opinions if you cannot attend the Award Ceremony on Wednesday. https://apec-conf.org/special-events/pels-2024.
+- Wednesday 2/28: MagNet Challenge Award Ceremony, 4:30pm-5:30pm PST, Hyatt Regency Ballroom DEF. We will announce the winners, celebrate what we have done in the past year, and plan for MagNet Challenge 2024, and chat and make new friends. https://apec-conf.org/special-events/pels-2024.
+
+If Internet is available, we will try to broadcast the TC10 Meeting and the Award Ceremony on Zoom. Registration Link: 
+- TC10 Meeting: https://princeton.zoom.us/meeting/register/tJYodOGtrTkjGN2KA0V6rszHUBsIeY110hQV
+- Award Ceremony: https://princeton.zoom.us/meeting/register/tJ0kcOmvrjIuE92g5BgXI3k_6Z8ctqpTY5sy
+
+
 ========================================================
 ## **Download the [Final Evaluation Kit](finaltest/EvaluationKit.zip) for Self Evaluation of Model Accuracy
 ## Register for the [Code Review Town Hall Meeting](https://princeton.zoom.us/meeting/register/tJYudOuorT0tGNZ5nvm-JG6cbjtaJtx1ZFbO), please email us your preferred slot. All teams are welcome to present, listen, and discuss. Since we were able to execute most codes, we will not host individual code review meetings. 
