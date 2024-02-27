@@ -11,7 +11,7 @@
 Here are a few events related to the MagNet Challenge that you may pay attention to at APEC:
 
 - Saturday 2/24: Magnetics Workshop. Stop at Haoran and Shukai's poster to share about what we have learnt from MagNet Challenge 2023: https://www.psma.com/technical-forums/magnetics/workshop.
-- Tuesday 2/27: PELS TC10 Meeting, 11:00am-12:30pm PST, Hyatt Regency Hotel, Seaview A. We will discuss and plan the logistics for MagNet Challenge 2024. Join this event and share your opinions if you cannot attend the Award Ceremony on Wednesday. https://apec-conf.org/special-events/pels-2024.
+- Tuesday 2/27: PELS TC10 Meeting, 12:30pm-2:00pm PST (updated), Hyatt Regency Hotel, Seaview A. We will discuss and plan the logistics for MagNet Challenge 2024. Join this event and share your opinions if you cannot attend the Award Ceremony on Wednesday. https://apec-conf.org/special-events/pels-2024.
 - Wednesday 2/28: MagNet Challenge Award Ceremony, 4:30pm-5:30pm PST, Hyatt Regency Ballroom DEF. We will announce the winners, celebrate what we have done in the past year, and plan for MagNet Challenge 2024, and chat and make new friends. https://apec-conf.org/special-events/pels-2024.
 
 If Internet is available, we will try to broadcast the TC10 Meeting and the Award Ceremony on Zoom. Registration Link: 
