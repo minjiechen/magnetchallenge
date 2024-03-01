@@ -31,7 +31,7 @@ Honorable Mention ($1000):
 Software Engineering ($5000):
 - University of Sydney, Sydney, Australia 🇦🇺
 
-More information will be made available on the PELS website, together with information for tranferring the prize money. We will be in touch!
+## **More information will be made available on the PELS website, together with information for tranferring the prize money. We will be in touch!
 
 
 ==================== APEC Ceremony =====================
