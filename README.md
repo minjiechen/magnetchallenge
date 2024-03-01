@@ -23,6 +23,8 @@ Honorable Mention ($1000):
 Software Engineering:
 - Sydney ($5000)
 
+More information will be made available on the PELS website, together with information for tranferring the prize money. We will be in touch!
+
 
 ==================== APEC Ceremony =====================
 ## **We will host a MagNet Challenge Award Ceremony on Wednesday Feb 28, 4:30pm-5:30pm PCT during [APEC 2024](https://apec-conf.org/) in Long Beach, California at [Hyatt Regency Ballroom DEF](https://apec-conf.org/special-events/pels-2024) . We look forward to seeing many of you there (and on Zoom) to celebrate what we have done and what we plan to do in the future!**
