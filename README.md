@@ -5,7 +5,9 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 ==================== MagNet Challenge 2023 Completed ===
-## **We marked the completion of the MagNet Challenge 2023 by hosting an Award Ceremony at APEC 2024. The Award Ceremony was well attended with ~100 student participants and audiences. The final winners of the MagNet Challenge 2023 are:
+## **We marked the completion of the MagNet Challenge 2023 by hosting an Award Ceremony at APEC 2024. The Award Ceremony was well attended with ~100 student participants and audiences. [Link to Pictures](https://drive.google.com/drive/folders/1-VbrRPGz0z3LtHOV-qnWxxeaa6QeXG4C?usp=sharing)
+
+The final winners of the MagNet Challenge 2023 are:
 
 Performance Track : 
 - 1st ($10000) Paderborn University, Paderborn, Germany 🇩🇪 
