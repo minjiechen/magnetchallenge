@@ -8,20 +8,28 @@
 ## **We marked the completion of the MagNet Challenge 2023 by hosting an Award Ceremony at APEC 2024. The Award Ceremony was well attended with ~100 student participants and audiences. The final winners of the MagNet Challenge 2023 are:
 
 Performance Track : 
-- Paderborn 1st ($10000) 
-- Fuzhou 2nd ($5000)
-- Bristol 3rd ($3000)
+- 1st ($10000) Paderborn University, Paderborn, Germany 🇩🇪 
+- 2nd ($5000) Fuzhou University, Fuzhou, China 🇨🇳
+- 3rd ($3000) University of Bristol, Bristol, UK 🇬🇧
   
 Innovation Track: 
-- Sydney 1st ($10000)
-- TU Delft 2nd ($5000)
-- Mondragon 3rd ($3000) 
+- 1st ($10000) University of Sydney, Sydney, Australia 🇦🇺
+- 2nd ($5000) TU Delft, Delft, Netherland 🇳🇱
+- 3rd ($3000) Mondragon University, Hernani, Spain 🇪🇸
 
 Honorable Mention ($1000): 
-- ASU, IISC, XJTU, ZJUI, UTK, Tsinghua, SEU-MC, PoliTO, SEU-WX 
+- Arizona State University, Tempe AZ, USA 🇺🇸
+- Indian Institute of Science, Bangalore, India 🇮🇳
+- Xi'an Jiaotong University, Xi'an, China 🇨🇳
+- Zhejiang University-UIUC, Hangzhou, China 🇨🇳
+- University of Tennessee, Knoxville, USA 🇺🇸
+- Politecnico di Torino, Torino, Italy 🇮🇹
+- Southeast University Team 1, Nanjing, China 🇨🇳
+- Southeast University Team 2, Nanjing, China 🇨🇳
+- Tsinghua University, Beijing, China 🇨🇳
 
-Software Engineering:
-- Sydney ($5000)
+Software Engineering ($5000):
+- University of Sydney, Sydney, Australia 🇦🇺
 
 More information will be made available on the PELS website, together with information for tranferring the prize money. We will be in touch!
 
