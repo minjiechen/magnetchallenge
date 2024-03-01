@@ -4,6 +4,24 @@
 
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
+==================== MagNet Challenge 2023 Completed ===
+## **We marked the completion of the MagNet Challenge 2023 by hosting an Award Ceremony at APEC 2024. The Award Ceremony was well attended with ~100 student participants and audiences. The final winners of the MagNet Challenge 2023 are:
+
+Performance Track : 
+- Paderborn 1st ($10000) 
+- Fuzhou 2nd ($5000)
+- Bristol 3rd ($3000)
+Innovation Track: 
+- Sydney 1st ($10000)
+- TU Delft 2nd ($5000)
+- Mondragon 3rd ($3000) 
+Honorable Mention ($1000): 
+- ASU, IISC, XJTU, ZJUI, UTK, Tsinghua, SEU-MC, PoliTO, SEU-WX 
+Software Engineering:
+- Sydney ($5000)
+
+
+![image](https://github.com/minjiechen/magnetchallenge/assets/8315875/7caca9f7-2073-41ea-9e1e-51ed5557efc9)
 ==================== APEC Ceremony =====================
 ## **We will host a MagNet Challenge Award Ceremony on Wednesday Feb 28, 4:30pm-5:30pm PCT during [APEC 2024](https://apec-conf.org/) in Long Beach, California at [Hyatt Regency Ballroom DEF](https://apec-conf.org/special-events/pels-2024) . We look forward to seeing many of you there (and on Zoom) to celebrate what we have done and what we plan to do in the future!**
 <img src="img/apeclogo.jpg" width="800">
@@ -17,8 +35,6 @@ Here are a few events related to the MagNet Challenge that you may pay attention
 If Internet is available, we will try to broadcast the TC10 Meeting and the Award Ceremony on Zoom. Registration Link: 
 - TC10 Meeting: https://princeton.zoom.us/meeting/register/tJYodOGtrTkjGN2KA0V6rszHUBsIeY110hQV
 - Award Ceremony: https://princeton.zoom.us/meeting/register/tJ0kcOmvrjIuE92g5BgXI3k_6Z8ctqpTY5sy
-
-
 ========================================================
 ## **Download the [Final Evaluation Kit](finaltest/EvaluationKit.zip) for Self Evaluation of Model Accuracy
 ## Register for the [Code Review Town Hall Meeting](https://princeton.zoom.us/meeting/register/tJYudOuorT0tGNZ5nvm-JG6cbjtaJtx1ZFbO), please email us your preferred slot. All teams are welcome to present, listen, and discuss. Since we were able to execute most codes, we will not host individual code review meetings. 
