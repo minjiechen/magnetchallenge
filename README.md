@@ -19,9 +19,6 @@ Honorable Mention ($1000):
 - ASU, IISC, XJTU, ZJUI, UTK, Tsinghua, SEU-MC, PoliTO, SEU-WX 
 Software Engineering:
 - Sydney ($5000)
-
-
-![image](https://github.com/minjiechen/magnetchallenge/assets/8315875/7caca9f7-2073-41ea-9e1e-51ed5557efc9)
 ==================== APEC Ceremony =====================
 ## **We will host a MagNet Challenge Award Ceremony on Wednesday Feb 28, 4:30pm-5:30pm PCT during [APEC 2024](https://apec-conf.org/) in Long Beach, California at [Hyatt Regency Ballroom DEF](https://apec-conf.org/special-events/pels-2024) . We look forward to seeing many of you there (and on Zoom) to celebrate what we have done and what we plan to do in the future!**
 <img src="img/apeclogo.jpg" width="800">
