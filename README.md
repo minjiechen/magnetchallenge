@@ -11,6 +11,8 @@
 
 [Ceremony Slides](docs/ceremonyslides.pdf)
 
+[Link to Final Presentations](https://www.dropbox.com/scl/fo/y7mshho8g34w44smlxvy5/h?rlkey=mdsvpe27ayxc3zep881yl4iyh&dl=0)
+
 The final winners of the MagNet Challenge 2023 are:
 
 Performance Track : 
