@@ -8,6 +8,7 @@
 ## **We marked the completion of the MagNet Challenge 2023 by hosting an Award Ceremony at APEC 2024. The Award Ceremony was well attended with ~100 student participants and audiences. 
 
 [Link to Pictures](https://drive.google.com/drive/folders/1-VbrRPGz0z3LtHOV-qnWxxeaa6QeXG4C?usp=sharing)
+
 [Ceremony Slides](docs/ceremonyslides.pdf)
 
 The final winners of the MagNet Challenge 2023 are:
