@@ -11,6 +11,10 @@
 
 [APEC Slides](docs/ceremonyslides.pdf)
 
+[Award Certificates](awards)
+
+[Organizing Certificates](certificate)
+
 [Challenge Summary](docs/summary.pdf)
 
 [Final Reports](finalreport)
