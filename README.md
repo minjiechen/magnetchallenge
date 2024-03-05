@@ -13,7 +13,7 @@
 
 [Award Certificates](awards)
 
-[Organizing Certificates](certificate)
+[Organizing Certificates](committee)
 
 [Challenge Summary](docs/summary.pdf)
 
