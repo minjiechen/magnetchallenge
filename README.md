@@ -5,6 +5,8 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
+## **We reorganized the datasets and tools used in the MagNet Challenge and moved them to the following sites
+
 [MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
 
 [MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
