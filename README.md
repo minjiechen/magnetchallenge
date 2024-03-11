@@ -5,11 +5,11 @@
 ## This site provides the latest information about the MagNet Challenge. 
 ## Please contact [pelsmagnet@gmail.com](mailto:pelsmagnet@gmail.com) for all purposes.
 
-[MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html)
+[MagNet Open Database](https://www.princeton.edu/~minjie/magnet.html) - maintained by Princeton University
 
-[MagNet-AI Platform](https://mag-net.princeton.edu/)
+[MagNet-AI Platform](https://mag-net.princeton.edu/) - maintained by Princeton University
 
-[MagNet Toolkit](https://github.com/upb-lea/mag-net-hub)
+[MagNet Toolkit](https://github.com/upb-lea/mag-net-hub) - maintained by Paderborn University
 
 ## **We marked the completion of the MagNet Challenge 2023 by hosting an Award Ceremony at APEC 2024. The Award Ceremony was well attended with ~100 student participants and audiences. 
 
