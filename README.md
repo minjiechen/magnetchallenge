@@ -15,6 +15,9 @@
 
 ## **We marked the completion of the MagNet Challenge 2023 by hosting an Award Ceremony at APEC 2024. The Award Ceremony was well attended with ~100 student participants and audiences. 
 
+## **More information will be made available on the PELS website, together with information for tranferring the prize money. We are still in the process of tranferring the prize money between Princeton and IEEE. We will be in touch in a few weeks!
+
+
 [APEC Pictures](https://drive.google.com/drive/folders/1-VbrRPGz0z3LtHOV-qnWxxeaa6QeXG4C?usp=sharing)
 
 [APEC Slides](docs/ceremonyslides.pdf)
@@ -54,9 +57,6 @@ Honorable Mention ($1000):
 
 Software Engineering ($5000):
 - University of Sydney, Sydney, Australia 🇦🇺
-
-## **More information will be made available on the PELS website, together with information for tranferring the prize money. We will be in touch!
-
 
 ==================== APEC Ceremony =====================
 ## **We will host a MagNet Challenge Award Ceremony on Wednesday Feb 28, 4:30pm-5:30pm PCT during [APEC 2024](https://apec-conf.org/) in Long Beach, California at [Hyatt Regency Ballroom DEF](https://apec-conf.org/special-events/pels-2024) . We look forward to seeing many of you there (and on Zoom) to celebrate what we have done and what we plan to do in the future!**
