@@ -1,0 +1,11 @@
+The python libraries used are:
+
+- numpy
+- pandas
+- matplotlib
+- tensorflow
+- sklearn
+- joblib
+- keras
+
+Please ensure the 'Scaling' folder stays as it is.

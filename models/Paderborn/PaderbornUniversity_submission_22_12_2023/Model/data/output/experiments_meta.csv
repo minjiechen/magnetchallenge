@@ -1,0 +1,25 @@
+experiment_uid,debug,subsample_factor,batch_size,n_folds,predicts_p_directly,n_epochs,tag,model_size
+f1583,True,8,4,1,True,2,,-1
+b588e,True,8,4,1,False,2,,-1
+6af40,True,8,4,1,False,2,,-1
+2f422,True,8,4,1,True,2,,-1
+fd0ea,False,1,64,4,True,30000,p_loss_weight = 0.5 * i_epoch / N_EPOCHS,-1
+cdb55,False,1,64,6,True,10000,"p_loss_weigth = i_epoch / N_EPOCHS (no weight!), Kfold = 6",-1
+6a78a,True,8,4,1,True,2,,-1
+98eec,True,8,4,1,True,2,test_comment,-1
+c4420,True,8,4,1,True,2,"here, new materials",-1
+20386,True,8,4,1,True,2,another test,-1
+e8f7f,True,8,4,1,True,2,,-1
+75010,False,1,64,4,True,5000,no expensive layer,1135
+14abf,False,1,64,4,True,5000,"standard topology, 4,7k params",4711
+ea89c,False,1,64,4,True,5000,8 neurons in expensive layer,2231
+60642,False,1,64,4,True,5000,32 neurons in expensive layer,5951
+0a2ef,False,1,64,4,True,5000,"32 in expensive, kernel size 17",10943
+b7cd2,False,1,64,4,True,5000,1-5 FT N=32,3006
+bfd85,False,1,64,4,True,5000,1-9 FT N=32,3662
+dec38,False,1,64,4,True,5000,p_loss_weight = 0.2 * i_epoch / N_EPOCHS,3662
+67a8c,False,1,64,4,True,5000,p_loss_weight = 0.8 * i_epoch / N_EPOCHS,3662
+6909a,False,1,64,4,True,5000,"p_loss_weight = 0.5 * ..., half_learning_rate = 0.5 * ...",3662
+58ab3,False,1,64,4,True,5000,first cnn layer has minimum neurons followd by 8 neurons,1755
+c7d33,False,1,64,4,True,5000,"p_loss_weight = 0.8 * ..., half_learning_rate = 0.5 * ...",3662
+c9cfe,False,1,64,1,True,10000,final model attempt 0,1755

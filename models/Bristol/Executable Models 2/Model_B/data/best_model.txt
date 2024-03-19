@@ -1,0 +1,2 @@
+G:\我的云端硬盘\DeepLearning\MagNet_dataExpand_comb_shift_flip\MagNet_comb_N30_cycle
+1.0094279

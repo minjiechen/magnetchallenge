@@ -1,0 +1,1 @@
+Put the Testing/ (and if you like also Training/) folder right here. See the README for details.

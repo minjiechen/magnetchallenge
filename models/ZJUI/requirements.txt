@@ -1,0 +1,9 @@
+Modules Name and Version
+
+numpy: 1.25.0
+torch: 1.12.1+cu113
+csv: 1.0
+random: 3.10.12
+json: 2.0.9
+math: 3.10.12
+scipy: 1.11.1

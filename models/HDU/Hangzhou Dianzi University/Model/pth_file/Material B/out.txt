@@ -1,0 +1,135 @@
+Environment:
+	Python: 3.10.11
+	PyTorch: 2.0.1
+	Torchvision: 0.15.2
+	CUDA: 11.7
+	CUDNN: 8500
+	NumPy: 1.24.3
+	PIL: 9.4.0
+load Material B.csv cost 10.090475082397461s
+load Material B.csv cost 11.816075801849365s
+===========start training===========
+pass 50 epoch cost 0.0 second, now 0 epoch
+===========epoch 0===========
+class_loss:0.4565963
+pass 50 epoch cost 183.66927933692932 second, now 50 epoch
+pass 50 epoch cost 181.38352370262146 second, now 100 epoch
+pass 50 epoch cost 176.46849656105042 second, now 150 epoch
+pass 50 epoch cost 182.21905612945557 second, now 200 epoch
+===========epoch 200===========
+class_loss:0.0012593
+pass 50 epoch cost 179.36199688911438 second, now 250 epoch
+pass 50 epoch cost 174.2726047039032 second, now 300 epoch
+pass 50 epoch cost 159.23422360420227 second, now 350 epoch
+pass 50 epoch cost 167.31200408935547 second, now 400 epoch
+===========epoch 400===========
+class_loss:0.0005253
+pass 50 epoch cost 168.62566566467285 second, now 450 epoch
+pass 50 epoch cost 168.2203607559204 second, now 500 epoch
+pass 50 epoch cost 174.92132306098938 second, now 550 epoch
+pass 50 epoch cost 168.7396857738495 second, now 600 epoch
+===========epoch 600===========
+class_loss:0.0004684
+pass 50 epoch cost 155.74580717086792 second, now 650 epoch
+pass 50 epoch cost 164.5202612876892 second, now 700 epoch
+pass 50 epoch cost 105.40013074874878 second, now 750 epoch
+pass 50 epoch cost 107.15399360656738 second, now 800 epoch
+===========epoch 800===========
+class_loss:0.0003501
+pass 50 epoch cost 106.4901134967804 second, now 850 epoch
+pass 50 epoch cost 106.80909991264343 second, now 900 epoch
+pass 50 epoch cost 98.08792209625244 second, now 950 epoch
+pass 50 epoch cost 92.95879602432251 second, now 1000 epoch
+===========epoch 1000===========
+class_loss:0.0004672
+pass 50 epoch cost 86.55311274528503 second, now 1050 epoch
+pass 50 epoch cost 87.57893586158752 second, now 1100 epoch
+pass 50 epoch cost 86.81144905090332 second, now 1150 epoch
+pass 50 epoch cost 86.49268341064453 second, now 1200 epoch
+===========epoch 1200===========
+class_loss:0.0004329
+pass 50 epoch cost 86.47498416900635 second, now 1250 epoch
+pass 50 epoch cost 86.06231760978699 second, now 1300 epoch
+pass 50 epoch cost 86.3217761516571 second, now 1350 epoch
+pass 50 epoch cost 86.58720278739929 second, now 1400 epoch
+===========epoch 1400===========
+class_loss:0.0007729
+pass 50 epoch cost 85.78507208824158 second, now 1450 epoch
+pass 50 epoch cost 86.2506422996521 second, now 1500 epoch
+pass 50 epoch cost 86.71219062805176 second, now 1550 epoch
+pass 50 epoch cost 86.53689050674438 second, now 1600 epoch
+===========epoch 1600===========
+class_loss:0.0001642
+pass 50 epoch cost 89.12715029716492 second, now 1650 epoch
+pass 50 epoch cost 87.07704663276672 second, now 1700 epoch
+pass 50 epoch cost 87.01777362823486 second, now 1750 epoch
+pass 50 epoch cost 101.94386959075928 second, now 1800 epoch
+===========epoch 1800===========
+class_loss:0.0001974
+pass 50 epoch cost 103.58604741096497 second, now 1850 epoch
+pass 50 epoch cost 105.35950994491577 second, now 1900 epoch
+pass 50 epoch cost 103.87316918373108 second, now 1950 epoch
+pass 50 epoch cost 103.83000326156616 second, now 2000 epoch
+===========epoch 2000===========
+class_loss:0.0001930
+pass 50 epoch cost 102.87392711639404 second, now 2050 epoch
+pass 50 epoch cost 102.76371479034424 second, now 2100 epoch
+pass 50 epoch cost 101.84180998802185 second, now 2150 epoch
+pass 50 epoch cost 102.45926547050476 second, now 2200 epoch
+===========epoch 2200===========
+class_loss:0.0001546
+pass 50 epoch cost 103.54143834114075 second, now 2250 epoch
+pass 50 epoch cost 100.39758610725403 second, now 2300 epoch
+pass 50 epoch cost 94.8037633895874 second, now 2350 epoch
+pass 50 epoch cost 101.75500321388245 second, now 2400 epoch
+===========epoch 2400===========
+class_loss:0.0000941
+pass 50 epoch cost 104.95438933372498 second, now 2450 epoch
+pass 50 epoch cost 115.13886547088623 second, now 2500 epoch
+pass 50 epoch cost 113.99002265930176 second, now 2550 epoch
+pass 50 epoch cost 113.0870840549469 second, now 2600 epoch
+===========epoch 2600===========
+class_loss:0.0001260
+pass 50 epoch cost 113.31914496421814 second, now 2650 epoch
+pass 50 epoch cost 109.29910802841187 second, now 2700 epoch
+pass 50 epoch cost 102.52666330337524 second, now 2750 epoch
+pass 50 epoch cost 102.33005118370056 second, now 2800 epoch
+manually descrease lr
+===========epoch 2800===========
+class_loss:0.0006453
+pass 50 epoch cost 102.55530333518982 second, now 2850 epoch
+pass 50 epoch cost 103.79502773284912 second, now 2900 epoch
+pass 50 epoch cost 101.3740017414093 second, now 2950 epoch
+pass 50 epoch cost 100.86391496658325 second, now 3000 epoch
+===========epoch 3000===========
+class_loss:0.0000931
+pass 50 epoch cost 101.19809055328369 second, now 3050 epoch
+pass 50 epoch cost 104.8940212726593 second, now 3100 epoch
+pass 50 epoch cost 116.12087488174438 second, now 3150 epoch
+pass 50 epoch cost 115.07744240760803 second, now 3200 epoch
+===========epoch 3200===========
+class_loss:0.0000636
+pass 50 epoch cost 113.40959215164185 second, now 3250 epoch
+pass 50 epoch cost 116.22732257843018 second, now 3300 epoch
+pass 50 epoch cost 102.50392937660217 second, now 3350 epoch
+pass 50 epoch cost 89.50082159042358 second, now 3400 epoch
+===========epoch 3400===========
+class_loss:0.0000655
+pass 50 epoch cost 87.14505910873413 second, now 3450 epoch
+pass 50 epoch cost 89.58341884613037 second, now 3500 epoch
+pass 50 epoch cost 81.30452156066895 second, now 3550 epoch
+pass 50 epoch cost 75.91280937194824 second, now 3600 epoch
+manually descrease lr
+===========epoch 3600===========
+class_loss:0.0000730
+pass 50 epoch cost 74.84880256652832 second, now 3650 epoch
+pass 50 epoch cost 76.34815812110901 second, now 3700 epoch
+pass 50 epoch cost 81.4502649307251 second, now 3750 epoch
+pass 50 epoch cost 90.10778880119324 second, now 3800 epoch
+===========epoch 3800===========
+class_loss:0.0000749
+pass 50 epoch cost 88.52129626274109 second, now 3850 epoch
+pass 50 epoch cost 89.08677101135254 second, now 3900 epoch
+pass 50 epoch cost 88.87090706825256 second, now 3950 epoch
+===========epoch 3999===========
+class_loss:0.0000602

@@ -1,0 +1,5 @@
+pandas==2.0.0
+numpy==1.24.2
+torch==2.0.0
+lightning==2.1.2
+torchinfo==1.8.0
