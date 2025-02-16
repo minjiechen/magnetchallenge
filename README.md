@@ -13,6 +13,8 @@
 
 [MagNet Toolkit](https://github.com/upb-lea/mag-net-hub) - maintained by Paderborn University
 
+[MagNet Engine](https://github.com/moetomg/magnet-engine) - maintained by University of Sydney
+
 ## **We marked the completion of the MagNet Challenge 2023 by hosting an Award Ceremony at APEC 2024. The Award Ceremony was well attended with ~100 student participants and audiences. 
 
 ## **More information will be made available on the PELS website, together with information for tranferring the prize money. We are still in the process of tranferring the prize money between Princeton and IEEE. We will be in touch in a few weeks!
